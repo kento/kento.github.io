@@ -11,7 +11,7 @@ modified: 2015-6-30
 
 <div id="publications_page">
       <div align="justify">
-      <h4><a class="name"> Conferences </a></h4>
+      <h2><a class="name"> Conferences </a></h2>
     <ol start="1">
       <li>
       <b> Kento Sato </b>, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee and Martin Schulz, "Clock Delta Compression for Scalable Order-Replay of Non-Deterministic Parallel Applications", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2015 (SC15), Austin, USA, Nov, 2015.
@@ -38,7 +38,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想マシン動的再配置による大規模データアクセスの高速化", 情報処理学会先進的計算基盤システムシンポジウム論文集 (SACSIS2010), 奈良, May, 2010.
       </li>
     </ol>
-<h4><a class="name"> Workshops (Refereed) </a></h4>
+<h2><a class="name"> Workshops (Refereed) </a></h2>
     <ol start="9">
       <li>
       Moshe Gabel, <b>Kento Sato</b>, Daniel Keren, Satoshi Matsuoka and Assaf Schuster, “Latent Fault Detection With Unbalanced Workloads”, Event Processing, Forecast- ing and Decision-Making in the Big Data Era 2015 (EPForDM2015) in conjunc- tion with the 18th International Conference on Extending Database Technology (EDBT), Brussels, Belgium, March, 2015.
