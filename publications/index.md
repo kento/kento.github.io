@@ -14,7 +14,10 @@ modified: 2015-6-30
       <h4><a class="name"> Conferences </a></h4>
     <ol start="1">
       <li>
-      <b>Kento Sato</b>, Kathryn Mohror, Adam Moody, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "A User-level InfiniBand-based File System and Checkpoint Strategy for Burst Buffers", In Proceedings of the 14th IEEE/ACM International Symposium on Cluster,
+      Naoto Sasaki, Kento Sato, Toshio Endo and Satoshi Matsuoka, "Exploration of Lossy Compression for Application-level Checkpoint/Restart", In Proceedings of the International Conference on Parallel and Distributed Processing Symposium 2015 (IPDPS2015), Hyderabad, INDIA, May, 2015
+      <\li>
+      <li>
+      <strong>Kento Sato</strong>, Kathryn Mohror, Adam Moody, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "A User-level InfiniBand-based File System and Checkpoint Strategy for Burst Buffers", In Proceedings of the 14th IEEE/ACM International Symposium on Cluster,
 Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper Award !!)</b>
       </li>
       <li>
