@@ -2,7 +2,7 @@
 layout: page
 title: Links
 image:
-  feature: links.jpg
+  feature: link.jpg
   credit: 
   creditlink: 
 comments: false
@@ -10,9 +10,7 @@ modified: 2015-6-30
 ---
 
 <div id="links_page">
-      <div align="center">
-      <img src="./img/links1.jpg" width="90%" vspace="10px" border="1">
-      </div>
+
       <hr>
       <ul>
       <h4> Related Research Laboratories</h4>
@@ -34,4 +32,4 @@ modified: 2015-6-30
 		</li>
       </ul>
     </div>
-  </div>
+  
