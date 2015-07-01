@@ -51,7 +51,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       </li>
     </ol>
 <h4><a class="name"> Workshops (Non-refereed) </a></h4>
-    <ol start="9">
+    <ol start="12">
       <li>
        Xu Tianqi, <b>Kento Sato</b> and Satoshi Matsuoka, "Towards Cloud Bursting for Extreme Scale Supercomputers", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014.  
       </li>
@@ -74,7 +74,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       </li>
     </ol>
 <h4><a class="name"> Posters (Refereed)</a></h4>
-    <ol start="16">
+    <ol start="19">
       <li>
       Tianqi Xu, <b>Kento Sato</b> and Satoshi Matsuoka, “Towards Cloud-based Burst Buffers for I/O Intensive Computing in Cloud”, In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC’15), Frankfurt, Germany, July, 2015.
       </li>
@@ -95,7 +95,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       </li>
     </ol>
 <h4><a class="name"> Posters (Non-refereed)</a></h4>
-    <ol start="21">
+    <ol start="25">
       <li>
           <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-Blocking Checkpoint System", In ATIP - A*CRC Workshop on Accelerator Technologies in High Performance Computing, Singapore, March, 2012.
       </li>
@@ -104,7 +104,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       </li>
     </ol>
 <h4><a class="name"> Talks </a></h4>
-    <ol start="23">
+    <ol start="27">
       <li>
       <b>Kento Sato</b>, ``Extreme-Scale Resilience for Billion-Way of Parallelism'', ATIP Workshop: Japanese Research Toward Next-Generation Extreme Computing, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
       </li>
@@ -119,7 +119,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
     </ol>
 
 <h4><a class="name"> Book Chapters </a></h4>
-    <ol start="27">
+    <ol start="33">
       <li>
 Satoshi Matsuoka, Takayuki Aoki, Toshio Endo, Hitoshi Sato, Shin’ichiro Takizawa, Akihiko Nomura, and <b>Kento Sato</b>, "TSUBAME2.0: The First Petascale Supercom- puter in Japan and the Greatest Production in the World", volume 1, chapter 20, pages 525–556. Chapman & Hall/CRC Computational Science, April 2013. URL http://www.crcnetbase.com/doi/book/10.1201/b14677.
       </li>
