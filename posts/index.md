@@ -12,7 +12,7 @@ comments: false
     {% if forloop.first %}
     <article>
       <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
-      <ul>
+    <ul>
     {% endif %}
 
         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
