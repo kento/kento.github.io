@@ -11,7 +11,6 @@ modified: 2015-6-30
 
 <div id="publications_page">
       <div align="justify">
-       <hr>
       <h4><a class="name"> Conferences </a></h4>
     <ol>
       <li>
