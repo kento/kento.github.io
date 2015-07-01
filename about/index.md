@@ -9,9 +9,11 @@ comments: false
 modified: 2015-6-30
 ---
 
+<div align="justify">
 Kento Sato is a postdoctoral researcher in the  Center for Applied Scientific Computing at Lawrence Livermore National Laboratory (LLNL). His research area is distributed systems and parallel computing, particularly in High Performance Computing (HPC). Major focuses of his research are application reproducibility (MPI reproducibility, and Validation), scalable fault tolerance (Scalable checkpoint/restart, Fault tolerant MPI, Resilient system design), and I/O optimization (NVRAM, Burst buffer, and Big data), and cloud computing. He is also a member of the Scalable Checkpoint/Restart project team at LLNL.
 
 He received his Ph.D. in the Dept. of Mathematical & Computing Sciences at Tokyo Tech in 2014, his M.S. in the Dept. of Mathematical & Computing Sciences at Tokyo Tech in 2010, and his B.S. in the Dept. of Information Science at Tokyo Tech in 2008.
+</div>
 
 <!--
 They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
