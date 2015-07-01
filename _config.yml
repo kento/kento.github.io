@@ -11,7 +11,7 @@ url: //kento.github.io
 owner:
   name:           Kento Sato
   avatar:         kento_sato.jpg
-  bio:            "Kento Sato is a postdoctoral researcher in the  Center for Applied Scientific Computing at Lawrence Livermore National Laboratory (LLNL)"
+  bio:            "Postdoc/Center for Applied Scientific Computing (CASC)/Lawrence Livermore National Laboratory (LLNL)"
   email:          kento@llnl.gov
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -29,7 +29,7 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   # directly wrote to _includes/scripts.html 
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
