@@ -2,13 +2,18 @@
 layout: page
 title: Bio
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: about.jpg
+  credit: 
+  creditlink: 
 comments: false
-modified: 2014-12-24
+modified: 2015-6-30
 ---
 
+Kento Sato is a postdoctoral researcher in the  Center for Applied Scientific Computing at Lawrence Livermore National Laboratory (LLNL). His research area is distributed systems and parallel computing, particularly in High Performance Computing (HPC). Major focuses of his research are application reproducibility (MPI reproducibility, and Validation), scalable fault tolerance (Scalable checkpoint/restart, Fault tolerant MPI, Resilient system design), and I/O optimization (NVRAM, Burst buffer, and Big data), and cloud computing. He is also a member of the Scalable Checkpoint/Restart project team at LLNL.
+
+He received his Ph.D. in the Dept. of Mathematical & Computing Sciences at Tokyo Tech in 2014, his M.S. in the Dept. of Mathematical & Computing Sciences at Tokyo Tech in 2010, and his B.S. in the Dept. of Information Science at Tokyo Tech in 2008.
+
+<!--
 They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
 
 If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
@@ -32,3 +37,4 @@ If you've used any of [my other themes](http://mademistakes.com/work/jekyll-them
 <div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
 
 [^1]: Example: *domain.com/category-name/post-title*
+-->
