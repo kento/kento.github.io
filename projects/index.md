@@ -1,110 +1,26 @@
 ---
 layout: page
-title: Publications
+title: Projects
 image:
-  feature: publications.jpg
+  feature: projects.jpg
   credit: 
   creditlink: 
 comments: false
 modified: 2015-6-30
 ---
 
-<div id="publications_page">
-      <div align="justify">
-      <h4><a class="name"> Conferences </a></h4>
-    <ol start="1">
-      <li>
-      <b>Kento Sato</b>, Kathryn Mohror, Adam Moody, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "A User-level InfiniBand-based File System and Checkpoint Strategy for Burst Buffers", In Proceedings of the 14th IEEE/ACM International Symposium on Cluster,
-Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper Award !!)</b>
-      </li>
-      <li>
-      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "FMI: Fault Tolerant Messaging Interface for Fast and Transparent Recovery", In Proceedings of the International Conference on Parallel and Distributed Processing Symposium 2014 (IPDPS2014), Phoenix, USA, May, 2014.
-      </li>      
-      <li>
-      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-blocking Checkpointing System", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2012 (SC12), Salt Lake, USA,  Nov, 2012.
-      </li>
-      <li>
-      Akira Nukada, <b>Kento Sato</b> and Satoshi Matsuoka, "Scalable Multi-GPU 3-D FFT for TSUBAME 2.0 Supercomputer", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2012 (SC12), Salt Lake, USA, Nov, 2012.
-      </li>
-      <li>Naoya Maruyama, Tatsuo Nomura, <b>Kento Sato</b>, and Satoshi Matsuoka, "Physis: An Implicitly Parallel Programming Model for Stencil Computations on Large-Scale GPU-Accelerated Supercomputers", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2011 (SC11), Seattle, USA, Nov 2011.
-      </li>
-      <li>
-      <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想マシン動的再配置による大規模データアクセスの高速化", 情報処理学会先進的計算基盤システムシンポジウム論文集 (SACSIS2010), 奈良, May, 2010.
-      </li>
-    </ol>
-<h4><a class="name"> Workshops (Refereed) </a></h4>
-    <ol start="7">
-      <li>
-      Takafumi Saito, <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka, "Energy-aware I/O Optimization for Checkpoint and Restart on a NAND Flash Memory System", In the Workshop on Fault-Tolerance for HPC at Extreme Scale 2013 (FTXS2013) in conjunction with the International Symposium on High Performance Parallel and Distributed Computing (HPDC13), New York, USA, June, 2013.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", In the International Workshop On Cloud Computing (Cloud2009) in conjunction with the International Symposium on Cluster Computing and the Grid 2009 (CCGrid2009), Shanghai, China, May, 2009.
-      </li>
-    </ol>
-<h4><a class="name"> Workshops (Non-refereed) </a></h4>
-    <ol start="9">
-      <li>
-       Xu Tianqi, <b>Kento Sato</b> and Satoshi Matsuoka, "Towards Cloud Bursting for Extreme Scale Supercomputers", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014.  
-      </li>
-      <li>
-      佐々木尚人, <b>佐藤賢斗</b>, 遠藤敏夫, 松岡聡, "実アプリケーションにおけるウェーブレット変換を用いたチェックポイントデータの非可逆圧縮手法", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014
-      </li>
-      <li>
-      <b>Kento Sato</b>, Satoshi Matsuoka, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski and Naoya Maruyama, "Burst SSD Buffer: Checkpoint Strategy at Extreme Scale", IPSJ SIG Technical Reports 2013-HPC-141, Okinawa, Sep, 2013.
-      </li>
-      <li>
-      松岡 聡, <b>佐藤 賢斗</b>, 遠藤敏夫 "エクサスケールスパコンに向けた耐故障性の評価  --- TSUBAME2.0を例にして ---", IPSJ SIG Technical Reports 2013-HPC-141, Okinawa, Sep, 2013.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of an Asynchronous Checkpointing System", IPSJ SIG Technical Reports 2012-HPC-135 (SWoPP 2012), Tottori, Aug, 2012.
-      </li>
-      <li><b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Towards an Asynchronous Checkpointing System", IPSJ SIG Technical Reports 2011-ARC-197 2011-HPC-132 (HOKKE-19), Hokkaido, Nov, 2011.
-      </li>
-      <li>
-        <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想クラスタを用いたData-Intensive Application実行環境の性能モデル構築と最適化", 並列／分散／協調処理に関するサマーワークショップ (SWoPP2008), Saga, Aug, 2008.
-      </li>
-    </ol>
-<h4><a class="name"> Posters (Refereed)</a></h4>
-    <ol start="16">
-      <li>
-      Naoto Sasaki, <b>Kento Sato</b>, Toshio Endo and Satoshi Matsuoka, "Exploration of Application-level Lossy Compression for Fast Checkpoint/Restart", In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC'14), Leipzig, Germany, June, 2014.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Akira Nukada, Naoya Maruyama and Satoshi Matsuoka , "I/O acceleration with GPU for I/O-bound Applications", GPU Technology Conference 2014, Mar. 2014.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Towards a Light-weight Non-blocking Checkpointing System", In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC'12), Hamburg, Germany, June, 2012.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka, "Model-based Optimization for Data-Intensive Application on Virtual Cluster", In the International Conference on Grid Computing (Grid 2008), Tsukuba, Sep, 2008.
-      </li>
-      <li>
-      <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想クラスタを用いた Data-Intensive Application 実行環境の性能モデル構築と最適化に向けて", 先進的計算基盤システムシンポジウム 2008 (SACSIS2008), Tsukuba,  June, 2008.
-      </li>
-    </ol>
-<h4><a class="name"> Posters (Non-refereed)</a></h4>
-    <ol start="21">
-      <li>
-          <b>Kento Sato</b>,Adam Moody,Kathryn Mohror,Todd Gamblin,Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-Blocking Checkpoint System", In ATIP - A*CRC Workshop on Accelerator Technologies in High Performance Computing, Singapore, March, 2012.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka "Orchestrated Data Processing Acceleration for Data-Intensive Applications by using VM-based Migration", The 1st Data Intensive Science Workshop, Tokyo, March, 2011.
-      </li>
-    </ol>
-<h4><a class="name"> Talks </a></h4>
-    <ol start="23">
-      <li><b>佐藤賢斗</b>, "確率モデルとスーパーコンピュータ", 日本オペレーションズ・リサーチ学会 第248回待ち行列研究部会, Tokyo, July, 2014.</li>
-      <li><b>Kento Sato</b>, "Design and Modeling of an Asynchronous Checkpointing System", Emerging Technologies HPC Showcase, Supercomputing 2013 (SC13), Denver, USA, November, 2013.</li>
-      <li><b>Kento Sato</b>, "Checkpointing and Lustre", Japan LUG (Lustre Users Group) 2013, Tokyo, October, 2013.</li>
-      <li><b>Kento Sato</b>, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", Korea-Japan E-Science Symposium, Miyagi, Aug, 2009.
-      </li>
-    </ol>
+<h4>Asynchronous Checkpointing</h4>
+	As the capability and component count of systems increase, the MTBF decreases. Typically, applications tolerate failures with checkpoint/restart to a parallel file system (PFS). While simple, this approach can suffer from contention for PFS resources. Multi-level checkpointing is a promising solution. However, while multi-level checkpointing is successful on today’ s machines, it is not expected to be sufficient for exascale class machines, which are predicted to have orders of magnitude larger memory sizes and failure rates. Our solution combines the benefits of non-blocking and multi-level checkpointing. In this paper, we present the design of our system and model its performance. Our experiments show that our system can improve efficiency by 1.1 to 2.0× on future machines. Additionally, applications using our checkpointing system can achieve high efficiency even when using a PFS with lower bandwidth.
 
-<h4><a class="name"> Book Chapters </a></h4>
-    <ol start="27">
-      <li>
-Satoshi Matsuoka, Takayuki Aoki, Toshio Endo, Hitoshi Sato, Shin’ichiro Takizawa, Akihiko Nomura, and <b>Kento Sato</b>, "TSUBAME2.0: The First Petascale Supercom- puter in Japan and the Greatest Production in the World", volume 1, chapter 20, pages 525–556. Chapman & Hall/CRC Computational Science, April 2013. URL http://www.crcnetbase.com/doi/book/10.1201/b14677.
-      </li>
-    </ol>
-      </div>
-    </div>
+        <h4>Fault Tolerant Messaging Interface</h4>
+Future supercomputers built with more components will enable larger, higher-fidelity simulations, but at the cost of higher failure rates. Traditional approaches to mitigating failures, such as checkpoint/restart (C/R) to a parallel file system incur large overheads. On future, extreme-scale systems, it is unlikely that traditional C/R will recover a failed application before the next failure occurs. To address this problem, we present the Fault Tolerant Messaging Interface (FMI), which enables extremely low-latency recovery. FMI accomplishes this using a survivable communication runtime coupled with fast, in-memory C/R, and dynamic node allocation. FMI provides message-passing semantics similar to MPI, but applications written using FMI can run through failures. The FMI runtime software handles fault tolerance, including checkpointing application state, restarting failed processes, and allocating additional nodes when needed. Our tests show that FMI runs with similar failure-free performance as MPI, but FMI incurs only a 28% overhead with a very high mean time between failures of 1 minute.
+        <h4>Infiniband-based I/O Interface for Burst Buffers</h4>
+Checkpoint/Restart is an indispensable fault tolerance technique commonly used by high-performance computing applications that run continuously for hours or days at a time. However, even with state-of-the-art checkpoint/restart techniques, high failure rates at large scale will limit application efficiency. To alleviate the problem, we consider using burst buffers. Burst buffers are dedicated storage resources positioned between the compute nodes and the parallel file system, and this new tier within the storage hierarchy fills the performance gap between node-local storage and parallel file systems. With burst buffers, an application can quickly store checkpoints with increased reliability. In this work, we explore how burst buffers can improve efficiency compared to using only node-local storage. To fully exploit the bandwidth of burst buffers, we develop a user-level InfiniBand-based file system (IBIO). We also develop performance models for coordinated and uncoordinated checkpoint/restart strategies, and we apply those models to investigate the best checkpoint strategy using burst buffers on future large-scale systems.
+        <h4>Lossy Data Compression for Scientific Applications </h4>
+The computational power of High Performance Computing (HPC) systems and supercomputers is growing exponentially, driven by extreme-scale scientific simulations. However, the overall system failure rate can also increase as the system size grows. Although Checkpoint/Restart is one of widely used fault tolerance techniques for scientific applications running for a day or weeks at a time, checkpoint and restart time are expected to become huge overhead due to the high failure rate. To minimize checkpoint and restart time, we explore application-level lossy compression based on a wavelet transformation. Our preliminary studies show that our lossy compression approach can reduce size of simulation data of a real climate application by 86-87% with 0.09% of an average error.
+        <h4>I/O optimization using GPU for I/O-bound applications</h4>
+Recent several supercomputers usually have GPUs on each compute node to accelerate computation. However, not all applications can be accelerated by GPUs. For example, performance of I/O-bound applications is limited by underlying I/O device performance. Such I/O-bound applications require more I/O bandwidth rather than computational power. If we execute such non-GPU applications, the GPUs are not utilized, and we waste the resources. 
+To make use of idle GPUs, and accelerate I/O-bound applications, we utilize GPU device memory as buffer cache for I/O-bound applications. Our preliminary study showed that PCIe-attached GPUs can exhibit higher I/O throughput than other PCIe-attached I/O devices, ioDrive, and in-memory file system, tmpfs. However, if applications queries small write operations, the multiple fine-grained memory allocation by cudaMalloc, and memory free, cudaFree becomes bottlenecks to such I/O patterns. To exploit PCIe bandwidth, and accelerate I/O-bound applications, we develop GPU-accelerated I/O interface (gmfs). gmfs is an I/O interface which uses GPU as buffer cache of underlying persistent storage. The gmfs interface provides well-known I/O interface, such as gm_open, gm_read, gm_write and gm_close, on top of the hierarchical storage. To improve small write operations, gmfs first allocate entire GPU memory with cudaMalloc, then divides the allocated GPU memory into fixed size of chunk units. On a file write request, gmfs divides the file into chunks, and then writes the chunks into the GPU memory first with cudaMemcpy. If enough GPU memory space is not available to store a chunk, gmfs write the oldest cached chunk out to a specified path via gm_open. On a read request, gmfs refers to the chunk table to find the locations of each chunk, and read the chunks from GPU memory or persistent storage. With gmfs, applications are agnostic to the series of the above operations. 
+Our experimental results show gmfs can accelerate sequential read/write, and exhibit about 6.5 GB/seconds for read, 6.1 GB/seconds for write by a PCIe-gen2-attached GPU, and 8.1 GB/seconds for read, 7.6 GB/seconds for write of a PCIe-gen3-attached GPU. With gmfs, wa can utilize 82% of PCIe-gen2 peak bandwidth, 50% of PCIe-gen3 peak bandwidth. We also achieve 1.3╨3.0 times improvement for small write operations whose size is from 1KB to 32KB.
+        <h4>I/O optimization using VM migrations in clouds </h4>
+Federated storage resources in geographically distributed environments are becoming viable platforms for data-intensive cloud and grid applications. To improve I/O performance in such environments, we propose a novel model-based I/O performance optimization algorithm for data-intensive applications running on a virtual cluster, which determines virtual machine(VM) migration strategies, i.e., when and where a VM should be migrated, while minimizing the expected value of file access time. We solve this problem as a shortest path problem of a weighted direct acyclic graph (DAG), where the weighted vertex rep- resents a location of a VM and expected file access time from the location, and the weighted edge represents a migration of a VM and time. We construct the DAG from our markov model which represents the dependency of files. Our simulation-based studies suggest that our proposed algorithm can achieve higher performance than simple tech- niques, such as ones that never migrate VMs: 38% or al- ways migrate VMs onto the locations that hold target files: 47%.
