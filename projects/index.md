@@ -9,6 +9,7 @@ comments: false
 modified: 2015-6-30
 ---
 
+<div align="justify">
 <h4>Asynchronous Checkpointing</h4>
 As the capability and component count of systems increase, the MTBF decreases. Typically, applications tolerate failures with checkpoint/restart to a parallel file system (PFS). While simple, this approach can suffer from contention for PFS resources. Multi-level checkpointing is a promising solution. However, while multi-level checkpointing is successful on today’ s machines, it is not expected to be sufficient for exascale class machines, which are predicted to have orders of magnitude larger memory sizes and failure rates. Our solution combines the benefits of non-blocking and multi-level checkpointing. In this paper, we present the design of our system and model its performance. Our experiments show that our system can improve efficiency by 1.1 to 2.0× on future machines. Additionally, applications using our checkpointing system can achieve high efficiency even when using a PFS with lower bandwidth.
 
@@ -29,6 +30,7 @@ To make use of idle GPUs, and accelerate I/O-bound applications, we utilize GPU 
 Our experimental results show gmfs can accelerate sequential read/write, and exhibit about 6.5 GB/seconds for read, 6.1 GB/seconds for write by a PCIe-gen2-attached GPU, and 8.1 GB/seconds for read, 7.6 GB/seconds for write of a PCIe-gen3-attached GPU. With gmfs, wa can utilize 82% of PCIe-gen2 peak bandwidth, 50% of PCIe-gen3 peak bandwidth. We also achieve 1.3╨3.0 times improvement for small write operations whose size is from 1KB to 32KB.
 
 
-        
 <h4>I/O optimization using VM migrations in clouds </h4>
 Federated storage resources in geographically distributed environments are becoming viable platforms for data-intensive cloud and grid applications. To improve I/O performance in such environments, we propose a novel model-based I/O performance optimization algorithm for data-intensive applications running on a virtual cluster, which determines virtual machine(VM) migration strategies, i.e., when and where a VM should be migrated, while minimizing the expected value of file access time. We solve this problem as a shortest path problem of a weighted direct acyclic graph (DAG), where the weighted vertex rep- resents a location of a VM and expected file access time from the location, and the weighted edge represents a migration of a VM and time. We construct the DAG from our markov model which represents the dependency of files. Our simulation-based studies suggest that our proposed algorithm can achieve higher performance than simple tech- niques, such as ones that never migrate VMs: 38% or al- ways migrate VMs onto the locations that hold target files: 47%.
+
+</div>
