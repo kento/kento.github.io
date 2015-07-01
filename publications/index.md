@@ -11,7 +11,7 @@ modified: 2015-6-30
 
 <div id="publications_page">
       <div align="justify">
-      <h2><a class="name"> Conferences </a></h2>
+      <h2><a class="name"> Caonferences </a></h2>
     <ol start="1">
       <li>
       <b> Kento Sato </b>, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee and Martin Schulz, "Clock Delta Compression for Scalable Order-Replay of Non-Deterministic Parallel Applications", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2015 (SC15), Austin, USA, Nov, 2015.
