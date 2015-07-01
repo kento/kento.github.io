@@ -1,5 +1,8 @@
 # Menu navigation links
 
+- title: Projects
+  url: /projects/
+
 - title: Publications
   url: /publications/
 
