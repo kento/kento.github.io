@@ -14,10 +14,10 @@ modified: 2015-6-30
       <h4><a class="name"> Conferences </a></h4>
     <ol start="1">
       <li>
-      Naoto Sasaki, Kento Sato, Toshio Endo and Satoshi Matsuoka, "Exploration of Lossy Compression for Application-level Checkpoint/Restart", In Proceedings of the International Conference on Parallel and Distributed Processing Symposium 2015 (IPDPS2015), Hyderabad, INDIA, May, 2015
-      <\li>
+      Naoto Sasaki, <b>Kento Sato</b>, Toshio Endo and Satoshi Matsuoka, "Exploration of Lossy Compression for Application-level Checkpoint/Restart", In Proceedings of the International Conference on Parallel and Distributed Processing Symposium 2015 (IPDPS2015), Hyderabad, INDIA, May, 2015
+      </li>
       <li>
-      <strong>Kento Sato</strong>, Kathryn Mohror, Adam Moody, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "A User-level InfiniBand-based File System and Checkpoint Strategy for Burst Buffers", In Proceedings of the 14th IEEE/ACM International Symposium on Cluster,
+      <b>Kento Sato</b>, Kathryn Mohror, Adam Moody, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "A User-level InfiniBand-based File System and Checkpoint Strategy for Burst Buffers", In Proceedings of the 14th IEEE/ACM International Symposium on Cluster,
 Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper Award !!)</b>
       </li>
       <li>
@@ -36,7 +36,10 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       </li>
     </ol>
 <h4><a class="name"> Workshops (Refereed) </a></h4>
-    <ol start="7">
+    <ol start="9">
+      <li>
+      Moshe Gabel, <b>Kento Sato</b>, Daniel Keren, Satoshi Matsuoka and Assaf Schuster, “Latent Fault Detection With Unbalanced Workloads”, Event Processing, Forecast- ing and Decision-Making in the Big Data Era 2015 (EPForDM2015) in conjunc- tion with the 18th International Conference on Extending Database Technology (EDBT), Brussels, Belgium, March, 2015.
+      </li>
       <li>
       Takafumi Saito, <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka, "Energy-aware I/O Optimization for Checkpoint and Restart on a NAND Flash Memory System", In the Workshop on Fault-Tolerance for HPC at Extreme Scale 2013 (FTXS2013) in conjunction with the International Symposium on High Performance Parallel and Distributed Computing (HPDC13), New York, USA, June, 2013.
       </li>
@@ -70,6 +73,9 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
 <h4><a class="name"> Posters (Refereed)</a></h4>
     <ol start="16">
       <li>
+      Tianqi Xu, Kento Sato and Satoshi Matsuoka, “Towards Cloud-based Burst Buffers for I/O Intensive Computing in Cloud”, In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC’15), Frankfurt, Germany, July, 2015.
+      </li>
+      <li>
       Naoto Sasaki, <b>Kento Sato</b>, Toshio Endo and Satoshi Matsuoka, "Exploration of Application-level Lossy Compression for Fast Checkpoint/Restart", In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC'14), Leipzig, Germany, June, 2014.
       </li>
       <li>
@@ -88,7 +94,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
 <h4><a class="name"> Posters (Non-refereed)</a></h4>
     <ol start="21">
       <li>
-          <b>Kento Sato</b>,Adam Moody,Kathryn Mohror,Todd Gamblin,Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-Blocking Checkpoint System", In ATIP - A*CRC Workshop on Accelerator Technologies in High Performance Computing, Singapore, March, 2012.
+          <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-Blocking Checkpoint System", In ATIP - A*CRC Workshop on Accelerator Technologies in High Performance Computing, Singapore, March, 2012.
       </li>
       <li>
       <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka "Orchestrated Data Processing Acceleration for Data-Intensive Applications by using VM-based Migration", The 1st Data Intensive Science Workshop, Tokyo, March, 2011.
@@ -96,6 +102,12 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
     </ol>
 <h4><a class="name"> Talks </a></h4>
     <ol start="23">
+      <li>
+      <b>Kento Sato</b>, ``Extreme-Scale Resilience for Billion-Way of Parallelism'', ATIP Workshop: Japanese Research Toward Next-Generation Extreme Computing, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
+      </li>
+      <li>
+      <b> Kento Sato</b>, "APIs, Architecture and Modeling for Extreme Scale Resilience", Dagstuhl Seminar -14402, Dagstuhl, September 2014.
+      </li>
       <li><b>佐藤賢斗</b>, "確率モデルとスーパーコンピュータ", 日本オペレーションズ・リサーチ学会 第248回待ち行列研究部会, Tokyo, July, 2014.</li>
       <li><b>Kento Sato</b>, "Design and Modeling of an Asynchronous Checkpointing System", Emerging Technologies HPC Showcase, Supercomputing 2013 (SC13), Denver, USA, November, 2013.</li>
       <li><b>Kento Sato</b>, "Checkpointing and Lustre", Japan LUG (Lustre Users Group) 2013, Tokyo, October, 2013.</li>
