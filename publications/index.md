@@ -11,7 +11,7 @@ modified: 2015-6-30
 
 <div id="publications_page">
       <div align="justify">
-      <h2><a class="name"> Caonferences </a></h2>
+      <h2><a class="name"> Conferences </a></h2>
     <ol start="1">
       <li>
       <b> Kento Sato </b>, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee and Martin Schulz, "Clock Delta Compression for Scalable Order-Replay of Non-Deterministic Parallel Applications", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2015 (SC15), Austin, USA, Nov, 2015.
@@ -50,7 +50,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", In the International Workshop On Cloud Computing (Cloud2009) in conjunction with the International Symposium on Cluster Computing and the Grid 2009 (CCGrid2009), Shanghai, China, May, 2009.
       </li>
     </ol>
-<h4><a class="name"> Workshops (Non-refereed) </a></h4>
+<h2><a class="name"> Workshops (Non-refereed) </a></h2>
     <ol start="12">
       <li>
        Xu Tianqi, <b>Kento Sato</b> and Satoshi Matsuoka, "Towards Cloud Bursting for Extreme Scale Supercomputers", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014.  
@@ -73,7 +73,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
         <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想クラスタを用いたData-Intensive Application実行環境の性能モデル構築と最適化", 並列／分散／協調処理に関するサマーワークショップ (SWoPP2008), Saga, Aug, 2008.
       </li>
     </ol>
-<h4><a class="name"> Posters (Refereed)</a></h4>
+<h2><a class="name"> Posters (Refereed)</a></h2>
     <ol start="19">
       <li>
       Tianqi Xu, <b>Kento Sato</b> and Satoshi Matsuoka, “Towards Cloud-based Burst Buffers for I/O Intensive Computing in Cloud”, In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC’15), Frankfurt, Germany, July, 2015.
@@ -94,7 +94,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想クラスタを用いた Data-Intensive Application 実行環境の性能モデル構築と最適化に向けて", 先進的計算基盤システムシンポジウム 2008 (SACSIS2008), Tsukuba,  June, 2008.
       </li>
     </ol>
-<h4><a class="name"> Posters (Non-refereed)</a></h4>
+<h2><a class="name"> Posters (Non-refereed)</a></h2>
     <ol start="25">
       <li>
           <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-Blocking Checkpoint System", In ATIP - A*CRC Workshop on Accelerator Technologies in High Performance Computing, Singapore, March, 2012.
@@ -103,7 +103,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka "Orchestrated Data Processing Acceleration for Data-Intensive Applications by using VM-based Migration", The 1st Data Intensive Science Workshop, Tokyo, March, 2011.
       </li>
     </ol>
-<h4><a class="name"> Talks </a></h4>
+<h2><a class="name"> Talks </a></h2>
     <ol start="27">
       <li>
       <b>Kento Sato</b>, ``Extreme-Scale Resilience for Billion-Way of Parallelism'', ATIP Workshop: Japanese Research Toward Next-Generation Extreme Computing, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
@@ -118,7 +118,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       </li>
     </ol>
 
-<h4><a class="name"> Book Chapters </a></h4>
+<h2><a class="name"> Book Chapters </a></h2>
     <ol start="33">
       <li>
 Satoshi Matsuoka, Takayuki Aoki, Toshio Endo, Hitoshi Sato, Shin’ichiro Takizawa, Akihiko Nomura, and <b>Kento Sato</b>, "TSUBAME2.0: The First Petascale Supercom- puter in Japan and the Greatest Production in the World", volume 1, chapter 20, pages 525–556. Chapman & Hall/CRC Computational Science, April 2013. URL http://www.crcnetbase.com/doi/book/10.1201/b14677.
