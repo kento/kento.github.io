@@ -14,6 +14,9 @@ modified: 2015-6-30
       <h4><a class="name"> Conferences </a></h4>
     <ol start="1">
       <li>
+      <b> Kento Sato </b>, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee and Martin Schulz, "Clock Delta Compression for Scalable Order-Replay of Non-Deterministic Parallel Applications", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2015 (SC15), Austin, USA, Nov, 2015.
+      </li>
+      <li>
       Naoto Sasaki, <b>Kento Sato</b>, Toshio Endo and Satoshi Matsuoka, "Exploration of Lossy Compression for Application-level Checkpoint/Restart", In Proceedings of the International Conference on Parallel and Distributed Processing Symposium 2015 (IPDPS2015), Hyderabad, INDIA, May, 2015
       </li>
       <li>
