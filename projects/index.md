@@ -3,8 +3,8 @@ layout: page
 title: Projects
 image:
   feature: projects.jpg
-  credit: 
-  creditlink: 
+  credit: TSUBAME-KFC (by Aleksandr Drozd)
+  creditlink: http://nightwind.in/
 comments: false
 modified: 2015-6-30
 ---
