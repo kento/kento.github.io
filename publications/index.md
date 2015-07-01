@@ -73,7 +73,7 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
 <h4><a class="name"> Posters (Refereed)</a></h4>
     <ol start="16">
       <li>
-      Tianqi Xu, Kento Sato and Satoshi Matsuoka, “Towards Cloud-based Burst Buffers for I/O Intensive Computing in Cloud”, In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC’15), Frankfurt, Germany, July, 2015.
+      Tianqi Xu, <b>Kento Sato</b> and Satoshi Matsuoka, “Towards Cloud-based Burst Buffers for I/O Intensive Computing in Cloud”, In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC’15), Frankfurt, Germany, July, 2015.
       </li>
       <li>
       Naoto Sasaki, <b>Kento Sato</b>, Toshio Endo and Satoshi Matsuoka, "Exploration of Application-level Lossy Compression for Fast Checkpoint/Restart", In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC'14), Leipzig, Germany, June, 2014.
