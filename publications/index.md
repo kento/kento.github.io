@@ -14,32 +14,29 @@ modified: 2015-6-30
       <h2><a class="name"> Conferences </a></h2>
     <ol start="1">
       <li>
-      <b> Kento Sato </b>, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee and Martin Schulz, "Clock Delta Compression for Scalable Order-Replay of Non-Deterministic Parallel Applications", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2015 (SC15), Austin, USA, Nov, 2015.
+      <b> Kento Sato </b>, Dong H. Ahn, Ignacio Laguna, Gregory L. Lee and Martin Schulz, "Clock Delta Compression for Scalable Order-Replay of Non-Deterministic Parallel Applications", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2015 (SC15), Austin, USA, Nov, 2015. (Acceptance rate: 22.1%, 79/358)
       </li>
       <li>
-      Naoto Sasaki, <b>Kento Sato</b>, Toshio Endo and Satoshi Matsuoka, "Exploration of Lossy Compression for Application-level Checkpoint/Restart", In Proceedings of the International Conference on Parallel and Distributed Processing Symposium 2015 (IPDPS2015), Hyderabad, INDIA, May, 2015
+      Naoto Sasaki, <b>Kento Sato</b>, Toshio Endo and Satoshi Matsuoka, "Exploration of Lossy Compression for Application-level Checkpoint/Restart", In Proceedings of the International Conference on Parallel and Distributed Processing Symposium 2015 (IPDPS2015), Hyderabad, INDIA, May, 2015. (Acceptance rate: 21.8%, 108/496)
       </li>
       <li>
       <b>Kento Sato</b>, Kathryn Mohror, Adam Moody, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "A User-level InfiniBand-based File System and Checkpoint Strategy for Burst Buffers", In Proceedings of the 14th IEEE/ACM International Symposium on Cluster,
-Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper Award !!)</b>
+Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. (Acceptance rate: 19.1%, 54/283) <b>(Best Paper Award !!)</b>
       </li>
       <li>
-      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "FMI: Fault Tolerant Messaging Interface for Fast and Transparent Recovery", In Proceedings of the International Conference on Parallel and Distributed Processing Symposium 2014 (IPDPS2014), Phoenix, USA, May, 2014.
+      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "FMI: Fault Tolerant Messaging Interface for Fast and Transparent Recovery", In Proceedings of the International Conference on Parallel and Distributed Processing Symposium 2014 (IPDPS2014), Phoenix, USA, May, 2014. (Acceptance rate: 21.1%, 114/541)
       </li>      
       <li>
-      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-blocking Checkpointing System", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2012 (SC12), Salt Lake, USA,  Nov, 2012.
+      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-blocking Checkpointing System", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2012 (SC12), Salt Lake, USA,  Nov, 2012. (Acceptance rate: 21.2%, 100/472)
       </li>
       <li>
-      Akira Nukada, <b>Kento Sato</b> and Satoshi Matsuoka, "Scalable Multi-GPU 3-D FFT for TSUBAME 2.0 Supercomputer", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2012 (SC12), Salt Lake, USA, Nov, 2012.
+      Akira Nukada, <b>Kento Sato</b> and Satoshi Matsuoka, "Scalable Multi-GPU 3-D FFT for TSUBAME 2.0 Supercomputer", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2012 (SC12), Salt Lake, USA, Nov, 2012. (Acceptance rate: 21.2%, 100/472)
       </li>
-      <li>Naoya Maruyama, Tatsuo Nomura, <b>Kento Sato</b>, and Satoshi Matsuoka, "Physis: An Implicitly Parallel Programming Model for Stencil Computations on Large-Scale GPU-Accelerated Supercomputers", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2011 (SC11), Seattle, USA, Nov 2011.
-      </li>
-      <li>
-      <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想マシン動的再配置による大規模データアクセスの高速化", 情報処理学会先進的計算基盤システムシンポジウム論文集 (SACSIS2010), 奈良, May, 2010.
+      <li>Naoya Maruyama, Tatsuo Nomura, <b>Kento Sato</b>, and Satoshi Matsuoka, "Physis: An Implicitly Parallel Programming Model for Stencil Computations on Large-Scale GPU-Accelerated Supercomputers", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2011 (SC11), Seattle, USA, Nov 2011. (Acceptance rate: 21.0%, 74/352)
       </li>
     </ol>
 <h2><a class="name"> Workshops (Refereed) </a></h2>
-    <ol start="9">
+    <ol start="8">
       <li>
       Moshe Gabel, <b>Kento Sato</b>, Daniel Keren, Satoshi Matsuoka and Assaf Schuster, “Latent Fault Detection With Unbalanced Workloads”, Event Processing, Forecast- ing and Decision-Making in the Big Data Era 2015 (EPForDM2015) in conjunc- tion with the 18th International Conference on Extending Database Technology (EDBT), Brussels, Belgium, March, 2015.
       </li>
@@ -48,6 +45,9 @@ Cloud and Grid Computing (CCGrid2014), Chicago, USA, May, 2014. <b>(Best Paper A
       </li>
       <li>
       <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", In the International Workshop On Cloud Computing (Cloud2009) in conjunction with the International Symposium on Cluster Computing and the Grid 2009 (CCGrid2009), Shanghai, China, May, 2009.
+      </li>
+      <li>
+      <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想マシン動的再配置による大規模データアクセスの高速化", 情報処理学会先進的計算基盤システムシンポジウム論文集 (SACSIS2010), 奈良, May, 2010.
       </li>
     </ol>
 <h2><a class="name"> Workshops (Non-refereed) </a></h2>
