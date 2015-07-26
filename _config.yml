@@ -68,3 +68,7 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+
+pubs:
+  2015-07-01-SC15-paper: Kento Sato , Dong H. Ahn, Ignacio Laguna, Gregory L. Lee and Martin Schulz, "Clock Delta Compression for Scalable Order-Replay of Non-Deterministic Parallel Applications", In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis 2015 (SC15), Austin, USA, Nov, 2015.
