@@ -101,11 +101,10 @@ pubs:
   2008-09-Grid-poster: Kento Sato, Hitoshi Sato and Satoshi Matsuoka, "Model-based Optimization for Data-Intensive Application on Virtual Cluster", In the International Conference on Grid Computing (Grid 2008), Tsukuba, Sep, 2008.
   2008-06-SACSIS-poster: 佐藤賢斗, 佐藤仁, 松岡聡, "仮想クラスタを用いた Data-Intensive Application 実行環境の性能モデル構築と最適化に向けて", 先進的計算基盤システムシンポジウム 2008 (SACSIS2008), Tsukuba, June, 2008.
 # Posters (Non-refereed)
-Kento Sato, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-Blocking Checkpoint System", In ATIP - A*CRC Workshop on Accelerator Technologies in High Performance Computing, Singapore, March, 2012.
-Kento Sato, Hitoshi Sato and Satoshi Matsuoka "Orchestrated Data Processing Acceleration for Data-Intensive Applications by using VM-based Migration", The 1st Data Intensive Science Workshop, Tokyo, March, 2011.
+  2012-03-ACRC-poster: Kento Sato, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-Blocking Checkpoint System", In ATIP - A*CRC Workshop on Accelerator Technologies in High Performance Computing, Singapore, March, 2012.
+  2011-03-DI-poster: Kento Sato, Hitoshi Sato and Satoshi Matsuoka "Orchestrated Data Processing Acceleration for Data-Intensive Applications by using VM-based Migration", The 1st Data Intensive Science Workshop, Tokyo, March, 2011.
 # Talks
-
-Kento Sato, ``Extreme-Scale Resilience for Billion-Way of Parallelism'', ATIP Workshop: Japanese Research Toward Next-Generation Extreme Computing, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
+Kento Sato, ``Extreme-Scale Resilience for Billion-Way of Parallelism'', ATIP Workshop - Japanese Research Toward Next-Generation Extreme Computing, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
 Kento Sato, "APIs, Architecture and Modeling for Extreme Scale Resilience", Dagstuhl Seminar -14402, Dagstuhl, September 2014.
 佐藤賢斗, "確率モデルとスーパーコンピュータ", 日本オペレーションズ・リサーチ学会 第248回待ち行列研究部会, Tokyo, July, 2014.
 Kento Sato, "Design and Modeling of an Asynchronous Checkpointing System", Emerging Technologies HPC Showcase, Supercomputing 2013 (SC13), Denver, USA, November, 2013.
