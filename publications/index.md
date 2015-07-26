@@ -9,7 +9,7 @@ comments: false
 modified: 2015-6-30
 ---
 
-<div id="publications_page">d
+<div id="publications_page">
       <div align="justify">
       <h2><a class="name"> Conferences </a></h2>
         <ol start="1">
