@@ -9,100 +9,63 @@ comments: false
 modified: 2015-6-30
 ---
 
-<div id="publications_page">
+<div id="publications_page">d
       <div align="justify">
       <h2><a class="name"> Conferences </a></h2>
-    <ol start="1">
-      <li> {{ site.pubs.2015-07-01-SC15-paper }}   </li>
-      <li> {{ site.pubs.2014-12-11-IPDPS2015-paper }}   </li>
-      <li> {{ site.pubs.2014-01-28-CCGrid2014-paper }}    </li>
-      <li> {{ site.pubs.2013-12-06-IPDPS2014-paper }}     </li>      
-      <li> {{ site.pubs.2012-07-10-SC12-paper-sato }}      </li>
-      <li> {{ site.pubs.2012-07-10-SC12-paper-nukada }}      </li>
-      <li> {{ site.pubs.2011-06-14-SC11-paper }}      </li>
-    </ol>
-<h2><a class="name"> Workshops (Refereed) </a></h2>
-    <ol start="8">
-      <li> {{ site.pubs. }}     </li>
-      <li> {{ site.pubs. }}     </li>
-      <li> {{ site.pubs. }}      </li>
-      <li> {{ site.pubs. }}     </li>
-    </ol>
-<h2><a class="name"> Workshops (Non-refereed) </a></h2>
-    <ol start="12">
-      <li>Tianqi Xu, <strong>Kento Sato</strong> and Satoshi Matsuoka,"Cloud-based Burst Buffers for I/O Acceleration", IPSJ SIG Technical Reports 2015-HPC-150, Beppu, Japan, Aug, 2015.<br />
-      </li>
-      <li>
-       Xu Tianqi, <b>Kento Sato</b> and Satoshi Matsuoka, "Towards Cloud Bursting for Extreme Scale Supercomputers", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014.  
-      </li>
-      <li>
-      佐々木尚人, <b>佐藤賢斗</b>, 遠藤敏夫, 松岡聡, "実アプリケーションにおけるウェーブレット変換を用いたチェックポイントデータの非可逆圧縮手法", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014
-      </li>
-      <li>
-      <b>Kento Sato</b>, Satoshi Matsuoka, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski and Naoya Maruyama, "Burst SSD Buffer: Checkpoint Strategy at Extreme Scale", IPSJ SIG Technical Reports 2013-HPC-141, Okinawa, Sep, 2013.
-      </li>
-      <li>
-      松岡 聡, <b>佐藤 賢斗</b>, 遠藤敏夫 "エクサスケールスパコンに向けた耐故障性の評価  --- TSUBAME2.0を例にして ---", IPSJ SIG Technical Reports 2013-HPC-141, Okinawa, Sep, 2013.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of an Asynchronous Checkpointing System", IPSJ SIG Technical Reports 2012-HPC-135 (SWoPP 2012), Tottori, Aug, 2012.
-      </li>
-      <li><b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Towards an Asynchronous Checkpointing System", IPSJ SIG Technical Reports 2011-ARC-197 2011-HPC-132 (HOKKE-19), Hokkaido, Nov, 2011.
-      </li>
-      <li>
-        <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想クラスタを用いたData-Intensive Application実行環境の性能モデル構築と最適化", 並列／分散／協調処理に関するサマーワークショップ (SWoPP2008), Saga, Aug, 2008.
-      </li>
-    </ol>
-<h2><a class="name"> Posters (Refereed)</a></h2>
-    <ol start="20">
-      <li>
-      Tianqi Xu, <b>Kento Sato</b> and Satoshi Matsuoka, “Towards Cloud-based Burst Buffers for I/O Intensive Computing in Cloud”, In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC’15), Frankfurt, Germany, July, 2015.
-      </li>
-      <li>
-      Naoto Sasaki, <b>Kento Sato</b>, Toshio Endo and Satoshi Matsuoka, "Exploration of Application-level Lossy Compression for Fast Checkpoint/Restart", In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC'14), Leipzig, Germany, June, 2014.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Akira Nukada, Naoya Maruyama and Satoshi Matsuoka , "I/O acceleration with GPU for I/O-bound Applications", GPU Technology Conference 2014, Mar. 2014.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Towards a Light-weight Non-blocking Checkpointing System", In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC'12), Hamburg, Germany, June, 2012.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka, "Model-based Optimization for Data-Intensive Application on Virtual Cluster", In the International Conference on Grid Computing (Grid 2008), Tsukuba, Sep, 2008.
-      </li>
-      <li>
-      <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想クラスタを用いた Data-Intensive Application 実行環境の性能モデル構築と最適化に向けて", 先進的計算基盤システムシンポジウム 2008 (SACSIS2008), Tsukuba,  June, 2008.
-      </li>
-    </ol>
-<h2><a class="name"> Posters (Non-refereed)</a></h2>
-    <ol start="26">
-      <li>
-          <b>Kento Sato</b>, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-Blocking Checkpoint System", In ATIP - A*CRC Workshop on Accelerator Technologies in High Performance Computing, Singapore, March, 2012.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka "Orchestrated Data Processing Acceleration for Data-Intensive Applications by using VM-based Migration", The 1st Data Intensive Science Workshop, Tokyo, March, 2011.
-      </li>
-    </ol>
-<h2><a class="name"> Talks </a></h2>
-    <ol start="28">
-      <li>
-      <b>Kento Sato</b>, ``Extreme-Scale Resilience for Billion-Way of Parallelism'', ATIP Workshop: Japanese Research Toward Next-Generation Extreme Computing, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
-      </li>
-      <li>
-      <b> Kento Sato</b>, "APIs, Architecture and Modeling for Extreme Scale Resilience", Dagstuhl Seminar -14402, Dagstuhl, September 2014.
-      </li>
-      <li><b>佐藤賢斗</b>, "確率モデルとスーパーコンピュータ", 日本オペレーションズ・リサーチ学会 第248回待ち行列研究部会, Tokyo, July, 2014.</li>
-      <li><b>Kento Sato</b>, "Design and Modeling of an Asynchronous Checkpointing System", Emerging Technologies HPC Showcase, Supercomputing 2013 (SC13), Denver, USA, November, 2013.</li>
-      <li><b>Kento Sato</b>, "Checkpointing and Lustre", Japan LUG (Lustre Users Group) 2013, Tokyo, October, 2013.</li>
-      <li><b>Kento Sato</b>, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", Korea-Japan E-Science Symposium, Miyagi, Aug, 2009.
-      </li>
-    </ol>
-
-<h2><a class="name"> Book Chapters </a></h2>
-    <ol start="34">
-      <li>
-Satoshi Matsuoka, Takayuki Aoki, Toshio Endo, Hitoshi Sato, Shin’ichiro Takizawa, Akihiko Nomura, and <b>Kento Sato</b>, "TSUBAME2.0: The First Petascale Supercom- puter in Japan and the Greatest Production in the World", volume 1, chapter 20, pages 525–556. Chapman & Hall/CRC Computational Science, April 2013. URL http://www.crcnetbase.com/doi/book/10.1201/b14677.
-      </li>
-    </ol>
-      </div>
+        <ol start="1">
+          <li> {{ site.pubs.2015-07-01-SC15-paper }}   </li>
+          <li> {{ site.pubs.2014-12-11-IPDPS2015-paper }}   </li>
+          <li> {{ site.pubs.2014-01-28-CCGrid2014-paper }}    </li>
+          <li> {{ site.pubs.2013-12-06-IPDPS2014-paper }}     </li>      
+          <li> {{ site.pubs.2012-07-10-SC12-paper-sato }}      </li>
+          <li> {{ site.pubs.2012-07-10-SC12-paper-nukada }}      </li>
+          <li> {{ site.pubs.2011-06-14-SC11-paper }}      </li>
+       </ol>
+      <h2><a class="name"> Workshops (Refereed) </a></h2>
+        <ol start="8">
+          <li> {{ site.pubs.2015-03-EPForDM-workshop }}     </li>
+          <li> {{ site.pubs.2013-06-FTXS-workshop }}     </li>
+          <li> {{ site.pubs.2010-05-SACSIS-workshop }}      </li>
+          <li> {{ site.pubs.2009-05-Cloud-workshop }}     </li>
+        </ol>
+      <h2><a class="name"> Workshops (Non-refereed) </a></h2>
+        <ol start="12">
+          <li> {{ site.pubs.2015-08-HPC_Techreport-workshop }}     </li>
+          <li> {{ site.pubs.2014-07-HPC_Techreport-workshop-xu }}     </li>
+          <li> {{ site.pubs.2014-07-HPC_Techreport-workshop-sasaki }}     </li>
+          <li> {{ site.pubs.2013-09-HPC_Techreport-workshop-sato }}     </li>
+          <li> {{ site.pubs.2013-09-HPC_Techreport-workshop-matsuoka }}     </li>
+          <li> {{ site.pubs.2012-08-HPC_Techreport-workshop }}     </li>
+          <li> {{ site.pubs.2011-11-HPC_Techreport-workshop }}    </li>
+          <li> {{ site.pubs.2009-08-HPC_Techreport-workshop }}     </li>
+        </ol>
+      <h2><a class="name"> Posters (Refereed)</a></h2>
+        <ol start="20">
+          <li>  {{ site.pubs.2015-07-HPC_in_Asia-poster }}    </li>
+          <li>  {{ site.pubs.2014-06-HPC_in_Asia-poster }}     </li>
+          <li>  {{ site.pubs.2014-03-GTC-poster }}     </li>
+          <li>  {{ site.pubs.2012-06-HPC_in_Asia-poster }}    </li>
+          <li>  {{ site.pubs.2008-09-Grid-poster }}     </li>
+          <li>  {{ site.pubs.2008-06-SACSIS-poster }}     </li>
+       </ol>
+      <h2><a class="name"> Posters (Non-refereed)</a></h2>
+        <ol start="26">
+          <li> {{ site.pubs.2012-03-ACRC-poster }}       </li>
+          <li> {{ site.pubs.2011-03-DI-poster }}       </li>
+        </ol>
+      <h2><a class="name"> Talks </a></h2>
+        <ol start="28">
+          <li> {{ site.pubs.2014-11-SC14-workshop }}       </li>
+          <li> {{ site.pubs.2014-11-SC14-booth }}       </li>
+          <li> {{ site.pubs.2014-09-Dagstuhl }}       </li>
+          <li> {{ site.pubs.2014-07-Queue }}       </li>
+          <li> {{ site.pubs.2013-11-SC13-booth }}       </li>
+          <li> {{ site.pubs.2013-10-LUG }}       </li>
+          <li> {{ site.pubs.2009-08-KJ }}       </li>          
+        </ol>
+      <h2><a class="name"> Book Chapters </a></h2>
+        <ol start="34">
+          <li> {{ site.pubs.2013-08-CRC }} </li>
+       </ol>
     </div>
+</div>
