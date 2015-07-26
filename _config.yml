@@ -86,15 +86,14 @@ pubs:
   2009-05-Cloud-workshop: Kento Sato, Hitoshi Sato and Satoshi Matsuoka, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", In the International Workshop On Cloud Computing (Cloud2009) in conjunction with the International Symposium on Cluster Computing and the Grid 2009 (CCGrid2009), Shanghai, China, May, 2009.
 
 # Workshops (Non-refereed)
-
-Tianqi Xu, Kento Sato and Satoshi Matsuoka,"Cloud-based Burst Buffers for I/O Acceleration", IPSJ SIG Technical Reports 2015-HPC-150, Beppu, Japan, Aug, 2015.
-Xu Tianqi, Kento Sato and Satoshi Matsuoka, "Towards Cloud Bursting for Extreme Scale Supercomputers", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014.
-佐々木尚人, 佐藤賢斗, 遠藤敏夫, 松岡聡, "実アプリケーションにおけるウェーブレット変換を用いたチェックポイントデータの非可逆圧縮手法", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014
-Kento Sato, Satoshi Matsuoka, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski and Naoya Maruyama, "Burst SSD Buffer: Checkpoint Strategy at Extreme Scale", IPSJ SIG Technical Reports 2013-HPC-141, Okinawa, Sep, 2013.
-松岡 聡, 佐藤 賢斗, 遠藤敏夫 "エクサスケールスパコンに向けた耐故障性の評価 --- TSUBAME2.0を例にして ---", IPSJ SIG Technical Reports 2013-HPC-141, Okinawa, Sep, 2013.
-Kento Sato, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of an Asynchronous Checkpointing System", IPSJ SIG Technical Reports 2012-HPC-135 (SWoPP 2012), Tottori, Aug, 2012.
-Kento Sato, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Towards an Asynchronous Checkpointing System", IPSJ SIG Technical Reports 2011-ARC-197 2011-HPC-132 (HOKKE-19), Hokkaido, Nov, 2011.
-佐藤賢斗, 佐藤仁, 松岡聡, "仮想クラスタを用いたData-Intensive Application実行環境の性能モデル構築と最適化", 並列／分散／協調処理に関するサマーワークショップ (SWoPP2008), Saga, Aug, 2008.
+  2015-08-HPC_Techreport-workshop: Tianqi Xu, Kento Sato and Satoshi Matsuoka, "Cloud-based Burst Buffers for I/O Acceleration", IPSJ SIG Technical Reports 2015-HPC-150, Beppu, Japan, Aug, 2015.
+  2014-07-HPC_Techreport-workshop-xu: Tianqi Xu, Kento Sato and Satoshi Matsuoka, "Towards Cloud Bursting for Extreme Scale Supercomputers", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014.
+  2014-07-HPC_Techreport-workshop-sasaki: 佐々木尚人, 佐藤賢斗, 遠藤敏夫, 松岡聡, "実アプリケーションにおけるウェーブレット変換を用いたチェックポイントデータの非可逆圧縮手法", IPSJ SIG Technical Reports 2014-HPC-145, Nigata, Jul, 2014.
+  2013-09-HPC_Techreport-workshop-sato: Kento Sato, Satoshi Matsuoka, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski and Naoya Maruyama, "Burst SSD Buffer: Checkpoint Strategy at Extreme Scale", IPSJ SIG Technical Reports 2013-HPC-141, Okinawa, Sep, 2013.
+  2013-09-HPC_Techreport-workshop-matsuoka: 松岡 聡, 佐藤 賢斗, 遠藤敏夫 "エクサスケールスパコンに向けた耐故障性の評価 --- TSUBAME2.0を例にして ---", IPSJ SIG Technical Reports 2013-HPC-141, Okinawa, Sep, 2013.
+  2012-08-HPC_Techreport-workshop: Kento Sato, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of an Asynchronous Checkpointing System", IPSJ SIG Technical Reports 2012-HPC-135 (SWoPP 2012), Tottori, Aug, 2012.
+  2011-11-HPC_Techreport-workshop: Kento Sato, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Towards an Asynchronous Checkpointing System", IPSJ SIG Technical Reports 2011-ARC-197 2011-HPC-132 (HOKKE-19), Hokkaido, Nov, 2011.
+  2009-08-HPC_Techreport-workshop:佐藤賢斗, 佐藤仁, 松岡聡, "仮想クラスタを用いたData-Intensive Application実行環境の性能モデル構築と最適化", 並列／分散／協調処理に関するサマーワークショップ (SWoPP2008), Saga, Aug, 2008.
 # Posters (Refereed)
 
 Tianqi Xu, Kento Sato and Satoshi Matsuoka, “Towards Cloud-based Burst Buffers for I/O Intensive Computing in Cloud”, In HPC in Asia Workshop in conjunction with the International Supercomputing Conference (ISC’15), Frankfurt, Germany, July, 2015.
