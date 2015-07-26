@@ -11,13 +11,13 @@ modified: 2015-6-30
 
 
 ## Conferences
-- {{ site.pubs.2015-07-01-SC15-paper }}
-- {{ site.pubs.2014-12-11-IPDPS2015-paper }}
-- {{ site.pubs.2014-01-28-CCGrid2014-paper }} 
-- {{ site.pubs.2013-12-06-IPDPS2014-paper }}
-- {{ site.pubs.2012-07-10-SC12-paper-sato }}
-- {{ site.pubs.2012-07-10-SC12-paper-nukada }}
-- {{ site.pubs.2011-06-14-SC11-paper }}
+- {{ site.pubs.2015-07-01-SC15-conf }}
+- {{ site.pubs.2014-12-11-IPDPS2015-conf }}
+- {{ site.pubs.2014-01-28-CCGrid2014-conf }} 
+- {{ site.pubs.2013-12-06-IPDPS2014-conf }}
+- {{ site.pubs.2012-07-10-SC12-conf-sato }}
+- {{ site.pubs.2012-07-10-SC12-conf-nukada }}
+- {{ site.pubs.2011-06-14-SC11-conf }}
 
 ## Workshops (Refereed)
 - {{ site.pubs.2015-03-EPForDM-workshop }}
