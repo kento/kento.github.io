@@ -104,12 +104,12 @@ pubs:
   2012-03-ACRC-poster: Kento Sato, Adam Moody, Kathryn Mohror, Todd Gamblin, Bronis R. de Supinski, Naoya Maruyama and Satoshi Matsuoka, "Design and Modeling of a Non-Blocking Checkpoint System", In ATIP - A*CRC Workshop on Accelerator Technologies in High Performance Computing, Singapore, March, 2012.
   2011-03-DI-poster: Kento Sato, Hitoshi Sato and Satoshi Matsuoka "Orchestrated Data Processing Acceleration for Data-Intensive Applications by using VM-based Migration", The 1st Data Intensive Science Workshop, Tokyo, March, 2011.
 # Talks
-Kento Sato, ``Extreme-Scale Resilience for Billion-Way of Parallelism'', ATIP Workshop - Japanese Research Toward Next-Generation Extreme Computing, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
-Kento Sato, "APIs, Architecture and Modeling for Extreme Scale Resilience", Dagstuhl Seminar -14402, Dagstuhl, September 2014.
-佐藤賢斗, "確率モデルとスーパーコンピュータ", 日本オペレーションズ・リサーチ学会 第248回待ち行列研究部会, Tokyo, July, 2014.
-Kento Sato, "Design and Modeling of an Asynchronous Checkpointing System", Emerging Technologies HPC Showcase, Supercomputing 2013 (SC13), Denver, USA, November, 2013.
-Kento Sato, "Checkpointing and Lustre", Japan LUG (Lustre Users Group) 2013, Tokyo, October, 2013.
-Kento Sato, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", Korea-Japan E-Science Symposium, Miyagi, Aug, 2009.
-Book Chapters
-
-Satoshi Matsuoka, Takayuki Aoki, Toshio Endo, Hitoshi Sato, Shin’ichiro Takizawa, Akihiko Nomura, and Kento Sato, "TSUBAME2.0: The First Petascale Supercom- puter in Japan and the Greatest Production in the World", volume 1, chapter 20, pages 525–556. Chapman & Hall/CRC Computational Science, April 2013. URL http://www.crcnetbase.com/doi/book/10.1201/b14677.
+  2014-11-SC14-workshop: Kento Sato, ``Extreme-Scale Resilience for Billion-Way of Parallelism'', ATIP Workshop - Japanese Research Toward Next-Generation Extreme Computing, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
+  2014-11-SC14-booth: Kento Sato, ``Resilience and Checkpointing'' Emerging Technologies HPC Showcase, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
+  2014-09-Dagstuhl: Kento Sato, "APIs, Architecture and Modeling for Extreme Scale Resilience", Dagstuhl Seminar-14402, Dagstuhl, September 2014.
+  2014-07-Queue: 佐藤賢斗, "確率モデルとスーパーコンピュータ", 日本オペレーションズ・リサーチ学会 第248回待ち行列研究部会, Tokyo, July, 2014.
+  2013-11-SC13-booth: Kento Sato, "Design and Modeling of an Asynchronous Checkpointing System", Emerging Technologies HPC Showcase, Supercomputing 2013 (SC13), Denver, USA, November, 2013.
+  2013-10-LUG: Kento Sato, "Checkpointing and Lustre", Japan LUG (Lustre Users Group) 2013, Tokyo, October, 2013.
+  2009-08-KJ: Kento Sato, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", Korea-Japan E-Science Symposium, Miyagi, Aug, 2009.
+# Book Chapters
+  2013-08-CRC: Satoshi Matsuoka, Takayuki Aoki, Toshio Endo, Hitoshi Sato, Shin’ichiro Takizawa, Akihiko Nomura, and Kento Sato, "TSUBAME2.0: The First Petascale Supercom- puter in Japan and the Greatest Production in the World", volume 1, chapter 20, pages 525–556. Chapman & Hall/CRC Computational Science, April 2013. URL http://www.crcnetbase.com/doi/book/10.1201/b14677.
