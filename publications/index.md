@@ -13,13 +13,13 @@ modified: 2015-6-30
       <div align="justify">
       <h2><a class="name"> Conferences </a></h2>
         <ol start="1">
-          <li> {{ site.pubs.2015-07-01-SC15-paper }} (Acceptance rate: 22.1%, 79/358)   </li>
-          <li> {{ site.pubs.2014-12-11-IPDPS2015-paper }}  (Acceptance rate: 21.8%, 108/496)  </li>
-          <li> {{ site.pubs.2014-01-28-CCGrid2014-paper }} (Acceptance rate: 19.1%, 54/283)    </li>
-          <li> {{ site.pubs.2013-12-06-IPDPS2014-paper }} (Acceptance rate: 21.1%, 114/541)    </li>      
-          <li> {{ site.pubs.2012-07-10-SC12-paper-sato }} (Acceptance rate: 21.2%, 100/472)     </li>
-          <li> {{ site.pubs.2012-07-10-SC12-paper-nukada }} (Acceptance rate: 21.2%, 100/472)     </li>
-          <li> {{ site.pubs.2011-06-14-SC11-paper }} (Acceptance rate: 21.0%, 74/352)     </li>
+          <li> {{ site.pubs.2015-07-01-SC15-paper }} </li>
+          <li> {{ site.pubs.2014-12-11-IPDPS2015-paper }}   </li>
+          <li> {{ site.pubs.2014-01-28-CCGrid2014-paper }} </li>
+          <li> {{ site.pubs.2013-12-06-IPDPS2014-paper }}  </li>      
+          <li> {{ site.pubs.2012-07-10-SC12-paper-sato }}  </li>
+          <li> {{ site.pubs.2012-07-10-SC12-paper-nukada }}  </li>
+          <li> {{ site.pubs.2011-06-14-SC11-paper }}   </li>
        </ol>
       <h2><a class="name"> Workshops (Refereed) </a></h2>
         <ol start="8">
