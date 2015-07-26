@@ -59,7 +59,7 @@ modified: 2015-6-30
 ## Book Chapters
 - {{ site.pubs.2013-08-CRC }}
 
-
+<!--
 <div id="publications_page">
       <div align="justify">
       <h2><a class="name"> Conferences </a></h2>
@@ -120,3 +120,4 @@ modified: 2015-6-30
        </ol>
     </div>
 </div>
+-->
