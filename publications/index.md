@@ -23,18 +23,10 @@ modified: 2015-6-30
     </ol>
 <h2><a class="name"> Workshops (Refereed) </a></h2>
     <ol start="8">
-      <li>
-      Moshe Gabel, <b>Kento Sato</b>, Daniel Keren, Satoshi Matsuoka and Assaf Schuster, “Latent Fault Detection With Unbalanced Workloads”, Event Processing, Forecast- ing and Decision-Making in the Big Data Era 2015 (EPForDM2015) in conjunc- tion with the 18th International Conference on Extending Database Technology (EDBT), Brussels, Belgium, March, 2015.
-      </li>
-      <li>
-      Takafumi Saito, <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka, "Energy-aware I/O Optimization for Checkpoint and Restart on a NAND Flash Memory System", In the Workshop on Fault-Tolerance for HPC at Extreme Scale 2013 (FTXS2013) in conjunction with the International Symposium on High Performance Parallel and Distributed Computing (HPDC13), New York, USA, June, 2013.
-      </li>
-      <li>
-      <b>Kento Sato</b>, Hitoshi Sato and Satoshi Matsuoka, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", In the International Workshop On Cloud Computing (Cloud2009) in conjunction with the International Symposium on Cluster Computing and the Grid 2009 (CCGrid2009), Shanghai, China, May, 2009.
-      </li>
-      <li>
-      <b>佐藤賢斗</b>, 佐藤仁, 松岡聡, "仮想マシン動的再配置による大規模データアクセスの高速化", 情報処理学会先進的計算基盤システムシンポジウム論文集 (SACSIS2010), 奈良, May, 2010.
-      </li>
+      <li> {{ site.pubs. }}     </li>
+      <li> {{ site.pubs. }}     </li>
+      <li> {{ site.pubs. }}      </li>
+      <li> {{ site.pubs. }}     </li>
     </ol>
 <h2><a class="name"> Workshops (Non-refereed) </a></h2>
     <ol start="12">
