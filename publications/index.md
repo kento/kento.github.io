@@ -11,8 +11,8 @@ modified: 2015-6-30
 
 
 ## Conferences
-- {{ site.pubs.2015-07-01-SC15-conf }}
-- {{ site.pubs.2014-12-11-IPDPS2015-conf }}
+- {{ site.pubs.2015-07-01-SC15-conf }} 
+- {{ site.pubs.2014-12-11-IPDPS2015-conf }} <A HREF="/files/2014-12-11-IPDPS2015-conf-paper.pdf"><IMG SRC='/images/icons/paper.jpg' BORDER=0></A>
 - {{ site.pubs.2014-01-28-CCGrid2014-conf }} 
 - {{ site.pubs.2013-12-06-IPDPS2014-conf }}
 - {{ site.pubs.2012-07-10-SC12-conf-sato }}
