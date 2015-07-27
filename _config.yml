@@ -106,7 +106,8 @@ pubs:
 # Talks
   2014-11-SC14-workshop: Kento Sato, ``Extreme-Scale Resilience for Billion-Way of Parallelism'', ATIP Workshop - Japanese Research Toward Next-Generation Extreme Computing, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
   2014-11-SC14-booth: Kento Sato, ``Resilience and Checkpointing'' Emerging Technologies HPC Showcase, Supercomputing 2014 (SC14), New Orleans, USA, November, 2014.
-  2014-09-Dagstuhl: Kento Sato, "APIs, Architecture and Modeling for Extreme Scale Resilience", Dagstuhl Seminar-14402, Dagstuhl, September 2014.
+  2014-09-Dagstuhl: Kento Sato, "APIs, Architecture and Modeling for Extreme Scale Resilience", Dagstuhl Seminar-14402, Dagstuhl, Germany, September 2014.
+  2014-09-Aachen: Kento Sato, "Billion-Way Resiliency for Extreme Scale Computing", Seminar at German Research School for Simulation Sciences, Aachen, Germany, October, 2014.
   2014-07-Queue: 佐藤賢斗, "確率モデルとスーパーコンピュータ", 日本オペレーションズ・リサーチ学会 第248回待ち行列研究部会, Tokyo, July, 2014.
   2013-11-SC13-booth: Kento Sato, "Design and Modeling of an Asynchronous Checkpointing System", Emerging Technologies HPC Showcase, Supercomputing 2013 (SC13), Denver, USA, November, 2013.
   2013-10-LUG: Kento Sato, "Checkpointing and Lustre", Japan LUG (Lustre Users Group) 2013, Tokyo, October, 2013.
