@@ -50,6 +50,8 @@ modified: 2015-6-30
 ## Talks
 - {{ site.pubs.2014-11-SC14-workshop }}
 - {{ site.pubs.2014-11-SC14-booth }}
+- {{ site.pubs.2014-10-Aachen }}
+- test
 - {{ site.pubs.2014-09-Dagstuhl }}
 - {{ site.pubs.2014-07-Queue }}
 - {{ site.pubs.2013-11-SC13-booth }}
