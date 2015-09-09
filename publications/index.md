@@ -36,6 +36,8 @@ modified: 2015-6-30
 - {{ site.pubs.2009-08-HPC_Techreport-workshop }}
 
 ## Posters (Refereed)
+- {{ site.pubs.2015-11-SC15-poster-wang}}
+- {{ site.pubs.2015-11-SC15-poster-xu}}
 - {{ site.pubs.2015-07-HPC_in_Asia-poster }}
 - {{ site.pubs.2014-06-HPC_in_Asia-poster }}
 - {{ site.pubs.2014-03-GTC-poster }}
