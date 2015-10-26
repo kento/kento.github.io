@@ -20,6 +20,7 @@ modified: 2015-6-30
 - {{ site.pubs.2011-06-14-SC11-conf }}
 
 ## Workshops (Refereed)
+- {{ site.pubs.2015-11-16-ExaMPI-workshop }} 
 - {{ site.pubs.2015-03-EPForDM-workshop }}
 - {{ site.pubs.2013-06-FTXS-workshop }}
 - {{ site.pubs.2010-05-SACSIS-workshop }}
