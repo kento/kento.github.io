@@ -77,6 +77,7 @@ modified: 2015-6-30
        </ol>
       <h2><a class="name"> Workshops (Refereed) </a></h2>
         <ol start="8">
+          <li> {{ site.pubs.2015-11-16-ExaMPI-workshop }} </li>
           <li> {{ site.pubs.2015-03-EPForDM-workshop }}     </li>
           <li> {{ site.pubs.2013-06-FTXS-workshop }}     </li>
           <li> {{ site.pubs.2010-05-SACSIS-workshop }}      </li>
