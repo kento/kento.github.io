@@ -51,6 +51,7 @@ modified: 2015-6-30
 - {{ site.pubs.2011-03-DI-poster }}
 
 ## Talks
+- {{ site.pubs.2016-02-09-AICS-talk }}
 - {{ site.pubs.2015-11-SC15-BoF }}
 - {{ site.pubs.2014-11-SC14-workshop }}
 - {{ site.pubs.2014-11-SC14-booth }}
