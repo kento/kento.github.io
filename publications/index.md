@@ -11,6 +11,8 @@ modified: 2015-6-30
 
 
 ## Conferences
+- {{ site.pubs.2016-09-01-ICPADS2016-conf }} 
+- {{ site.pubs.2016-07-01-SC16-conf }} 
 - {{ site.pubs.2015-07-01-SC15-conf }} 
 - {{ site.pubs.2014-12-11-IPDPS2015-conf }} 
 - {{ site.pubs.2014-01-28-CCGrid2014-conf }} 
