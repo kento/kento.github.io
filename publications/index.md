@@ -17,53 +17,53 @@ modified: 2015-6-30
 
 
 <table>
-<tr> <td bgcolor="lightgray"> IPDPS2017</td> <td>{{ site.pubs.2017-05-IPDPS2017-conf}}</td> </tr>
-<tr> <td bgcolor="lightgray"> PPoPP2017</td> <td>{{ site.pubs.2017-02-PPoPP17-conf }}</td> </tr>
-<tr> <td bgcolor="lightgray"> ICPADS2016</td> <td>{{ site.pubs.2016-09-01-ICPADS2016-conf }}</td> </tr>
-<tr> <td bgcolor="lightgray"> SC16</td> <td>{{ site.pubs.2016-07-01-SC16-conf }}</td> </tr>
-<tr> <td bgcolor="lightgray"> SC15</td> <td>{{ site.pubs.2015-07-01-SC15-conf }}</td> </tr>
-<tr> <td bgcolor="lightgray"> IPDPS2015</td> <td>{{ site.pubs.2014-12-11-IPDPS2015-conf }}</td> </tr>
-<tr> <td bgcolor="lightgray"> CCGrid2014</td> <td>{{ site.pubs.2014-01-28-CCGrid2014-conf }}</td> </tr>
-<tr> <td bgcolor="lightgray"> IPDPS2014</td> <td>{{ site.pubs.2013-12-06-IPDPS2014-conf }}</td> </tr>
-<tr> <td bgcolor="lightgray"> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-sato }}</td> </tr>
-<tr> <td bgcolor="lightgray"> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-nukada }}</td> </tr>
-<tr> <td bgcolor="lightgray"> SC11</td> <td>{{ site.pubs.2011-06-14-SC11-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> IPDPS2017</td> <td>{{ site.pubs.2017-05-IPDPS2017-conf}}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> PPoPP2017</td> <td>{{ site.pubs.2017-02-PPoPP17-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> ICPADS2016</td> <td>{{ site.pubs.2016-09-01-ICPADS2016-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SC16</td> <td>{{ site.pubs.2016-07-01-SC16-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SC15</td> <td>{{ site.pubs.2015-07-01-SC15-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> IPDPS2015</td> <td>{{ site.pubs.2014-12-11-IPDPS2015-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> CCGrid2014</td> <td>{{ site.pubs.2014-01-28-CCGrid2014-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> IPDPS2014</td> <td>{{ site.pubs.2013-12-06-IPDPS2014-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-sato }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-nukada }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SC11</td> <td>{{ site.pubs.2011-06-14-SC11-conf }}</td> </tr>
 </table>
 
 ## Workshops (Refereed)
 
 <table>
-<tr> <td bgcolor="lightgray"> ExaMPI15 </td> <td> {{ site.pubs.2015-11-16-ExaMPI-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray"> EPForDM2015 </td> <td> {{ site.pubs.2015-03-EPForDM-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray"> FTXS2013 </td> <td> {{ site.pubs.2013-06-FTXS-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray"> SACSIS2010 </td> <td> {{ site.pubs.2010-05-SACSIS-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray"> Cloud2009 </td> <td> {{ site.pubs.2009-05-Cloud-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> ExaMPI15 </td> <td> {{ site.pubs.2015-11-16-ExaMPI-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> EPForDM2015 </td> <td> {{ site.pubs.2015-03-EPForDM-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> FTXS2013 </td> <td> {{ site.pubs.2013-06-FTXS-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SACSIS2010 </td> <td> {{ site.pubs.2010-05-SACSIS-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> Cloud2009 </td> <td> {{ site.pubs.2009-05-Cloud-workshop }} </td> </tr>
 </table>
 
 ## Posters (Refereed)
 
 <table>
-<tr> <td bgcolor="lightgray"> SC15 </td> <td> {{ site.pubs.2015-11-SC15-poster-wang}} </td> </tr>
-<tr> <td bgcolor="lightgray"> SC15 </td> <td> {{ site.pubs.2015-11-SC15-poster-xu}} </td> </tr>
-<tr> <td bgcolor="lightgray"> ISC'15 </td> <td> {{ site.pubs.2015-07-HPC_in_Asia-poster }} </td> </tr>
-<tr> <td bgcolor="lightgray"> ISC'14 </td> <td> {{ site.pubs.2014-06-HPC_in_Asia-poster }} </td> </tr>
-<tr> <td bgcolor="lightgray"> GTC2014 </td> <td> {{ site.pubs.2014-03-GTC-poster }} </td> </tr>
-<tr> <td bgcolor="lightgray"> ISC'12 </td> <td> {{ site.pubs.2012-06-HPC_in_Asia-poster }} </td> </tr>
-<tr> <td bgcolor="lightgray"> Grid2008 </td> <td> {{ site.pubs.2008-09-Grid-poster }} </td> </tr>
-<tr> <td bgcolor="lightgray"> SACSIS2008 </td> <td> {{ site.pubs.2008-06-SACSIS-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SC15 </td> <td> {{ site.pubs.2015-11-SC15-poster-wang}} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SC15 </td> <td> {{ site.pubs.2015-11-SC15-poster-xu}} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> ISC'15 </td> <td> {{ site.pubs.2015-07-HPC_in_Asia-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> ISC'14 </td> <td> {{ site.pubs.2014-06-HPC_in_Asia-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> GTC2014 </td> <td> {{ site.pubs.2014-03-GTC-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> ISC'12 </td> <td> {{ site.pubs.2012-06-HPC_in_Asia-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> Grid2008 </td> <td> {{ site.pubs.2008-09-Grid-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SACSIS2008 </td> <td> {{ site.pubs.2008-06-SACSIS-poster }} </td> </tr>
 </table>
 
 ## Workshops (Non-refereed)
 
 <table>
-<tr> <td bgcolor="lightgray"> Tech report 2015 </td> <td> {{ site.pubs.2015-08-HPC_Techreport-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray"> Tech report 2014 </td> <td> {{ site.pubs.2014-07-HPC_Techreport-workshop-xu }} </td> </tr>
-<tr> <td bgcolor="lightgray"> Tech report 2014 </td> <td> {{ site.pubs.2014-07-HPC_Techreport-workshop-sasaki }} </td> </tr>
-<tr> <td bgcolor="lightgray"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-sato }} </td> </tr>
-<tr> <td bgcolor="lightgray"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-matsuoka }} </td> </tr>
-<tr> <td bgcolor="lightgray"> SWoPP2013 </td> <td> {{ site.pubs.2012-08-HPC_Techreport-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray"> HOKKE-19 </td> <td> {{ site.pubs.2011-11-HPC_Techreport-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray"> SWoPP2008 </td> <td> {{ site.pubs.2009-08-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> Tech report 2015 </td> <td> {{ site.pubs.2015-08-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> Tech report 2014 </td> <td> {{ site.pubs.2014-07-HPC_Techreport-workshop-xu }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> Tech report 2014 </td> <td> {{ site.pubs.2014-07-HPC_Techreport-workshop-sasaki }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-sato }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-matsuoka }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SWoPP2013 </td> <td> {{ site.pubs.2012-08-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> HOKKE-19 </td> <td> {{ site.pubs.2011-11-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SWoPP2008 </td> <td> {{ site.pubs.2009-08-HPC_Techreport-workshop }} </td> </tr>
 </table>
 
 
