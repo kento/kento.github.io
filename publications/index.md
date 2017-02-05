@@ -12,23 +12,17 @@ modified: 2015-6-30
 
 ## Conferences
 
-
-
 |IPDPS2017| {{ site.pubs.2017-05-IPDPS2017-conf}} |
 |PPoPP2017| {{ site.pubs.2017-02-PPoPP17-conf }}  |
-
-
-
-
-- {{ site.pubs.2016-09-01-ICPADS2016-conf }} 
-- {{ site.pubs.2016-07-01-SC16-conf }} 
-- {{ site.pubs.2015-07-01-SC15-conf }} 
-- {{ site.pubs.2014-12-11-IPDPS2015-conf }} 
-- {{ site.pubs.2014-01-28-CCGrid2014-conf }} 
-- {{ site.pubs.2013-12-06-IPDPS2014-conf }}
-- {{ site.pubs.2012-07-10-SC12-conf-sato }}
-- {{ site.pubs.2012-07-10-SC12-conf-nukada }}
-- {{ site.pubs.2011-06-14-SC11-conf }}
+|ICPADS2016| {{ site.pubs.2016-09-01-ICPADS2016-conf }} |
+|SC16|{{ site.pubs.2016-07-01-SC16-conf }}|
+|SC15|{{ site.pubs.2015-07-01-SC15-conf }}|
+|IPDPS2015|{{ site.pubs.2014-12-11-IPDPS2015-conf }}|
+|CCGrid2014|{{ site.pubs.2014-01-28-CCGrid2014-conf }}|
+|IPDPS2014|{{ site.pubs.2013-12-06-IPDPS2014-conf }}|
+|SC12|{{ site.pubs.2012-07-10-SC12-conf-sato }}|
+|SC12|{{ site.pubs.2012-07-10-SC12-conf-nukada }}|
+|SC11|{{ site.pubs.2011-06-14-SC11-conf }}|
 
 ## Workshops (Refereed)
 - {{ site.pubs.2015-11-16-ExaMPI-workshop }} 
