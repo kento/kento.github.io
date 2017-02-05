@@ -12,6 +12,17 @@ modified: 2015-6-30
 
 ## Conferences
 
+<table border="1">
+<tr>
+<td>Row 1, Column 1</td>
+<td>Row 1, Column 2</td>
+</tr>
+<tr>
+<td>Row 2, Column 1</td>
+<td>Row 2, Column 2</td>
+</tr>
+</table>
+
 |IPDPS2017| {{ site.pubs.2017-05-IPDPS2017-conf}} |
 |PPoPP2017| {{ site.pubs.2017-02-PPoPP17-conf }}  |
 |ICPADS2016| {{ site.pubs.2016-09-01-ICPADS2016-conf }} |
