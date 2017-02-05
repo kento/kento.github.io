@@ -42,14 +42,16 @@ modified: 2015-6-30
 
 ## Posters (Refereed)
 
-- {{ site.pubs.2015-11-SC15-poster-wang}}
-- {{ site.pubs.2015-11-SC15-poster-xu}}
-- {{ site.pubs.2015-07-HPC_in_Asia-poster }}
-- {{ site.pubs.2014-06-HPC_in_Asia-poster }}
-- {{ site.pubs.2014-03-GTC-poster }}
-- {{ site.pubs.2012-06-HPC_in_Asia-poster }}
-- {{ site.pubs.2008-09-Grid-poster }}
-- {{ site.pubs.2008-06-SACSIS-poster }}
+<table>
+<tr> <td bgcolor="lightgray"> SC15 </td> <td> {{ site.pubs.2015-11-SC15-poster-wang}} </td> </tr>
+<tr> <td bgcolor="lightgray"> SC15 </td> <td> {{ site.pubs.2015-11-SC15-poster-xu}} </td> </tr>
+<tr> <td bgcolor="lightgray"> ISC'15 </td> <td> {{ site.pubs.2015-07-HPC_in_Asia-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray"> ISC'14 </td> <td> {{ site.pubs.2014-06-HPC_in_Asia-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray"> GTC2014 </td> <td> {{ site.pubs.2014-03-GTC-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray"> ISC'12 </td> <td> {{ site.pubs.2012-06-HPC_in_Asia-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray"> Grid2008 </td> <td> {{ site.pubs.2008-09-Grid-poster }} </td> </tr>
+<tr> <td bgcolor="lightgray"> SACSIS2008 </td> <td> {{ site.pubs.2008-06-SACSIS-poster }} </td> </tr>
+</table>
 
 ## Workshops (Non-refereed)
 
@@ -59,9 +61,9 @@ modified: 2015-6-30
 <tr> <td bgcolor="lightgray"> Tech report 2014 </td> <td> {{ site.pubs.2014-07-HPC_Techreport-workshop-sasaki }} </td> </tr>
 <tr> <td bgcolor="lightgray"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-sato }} </td> </tr>
 <tr> <td bgcolor="lightgray"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-matsuoka }} </td> </tr>
-<tr> <td bgcolor="lightgray"> SWoPP 2013 </td> <td> {{ site.pubs.2012-08-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray"> SWoPP2013 </td> <td> {{ site.pubs.2012-08-HPC_Techreport-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray"> HOKKE-19 </td> <td> {{ site.pubs.2011-11-HPC_Techreport-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray"> SWoPP 2008 </td> <td> {{ site.pubs.2009-08-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray"> SWoPP2008 </td> <td> {{ site.pubs.2009-08-HPC_Techreport-workshop }} </td> </tr>
 </table>
 
 
