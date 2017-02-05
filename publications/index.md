@@ -32,23 +32,16 @@ modified: 2015-6-30
 
 ## Workshops (Refereed)
 
+<table>
 <tr> <td bgcolor="lightgray"> ExaMPI15 </td> <td> {{ site.pubs.2015-11-16-ExaMPI-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray"> EPForDM2015 </td> <td> {{ site.pubs.2015-03-EPForDM-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray"> FTXS2013 </td> <td> {{ site.pubs.2013-06-FTXS-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray"> SACSIS2010 </td> <td> {{ site.pubs.2010-05-SACSIS-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray"> Cloud2009 </td> <td> {{ site.pubs.2009-05-Cloud-workshop }} </td> </tr>
-
-## Workshops (Non-refereed)
-- {{ site.pubs.2015-08-HPC_Techreport-workshop }}
-- {{ site.pubs.2014-07-HPC_Techreport-workshop-xu }}
-- {{ site.pubs.2014-07-HPC_Techreport-workshop-sasaki }}
-- {{ site.pubs.2013-09-HPC_Techreport-workshop-sato }}
-- {{ site.pubs.2013-09-HPC_Techreport-workshop-matsuoka }}
-- {{ site.pubs.2012-08-HPC_Techreport-workshop }}
-- {{ site.pubs.2011-11-HPC_Techreport-workshop }}
-- {{ site.pubs.2009-08-HPC_Techreport-workshop }}
+</table>
 
 ## Posters (Refereed)
+
 - {{ site.pubs.2015-11-SC15-poster-wang}}
 - {{ site.pubs.2015-11-SC15-poster-xu}}
 - {{ site.pubs.2015-07-HPC_in_Asia-poster }}
@@ -57,6 +50,20 @@ modified: 2015-6-30
 - {{ site.pubs.2012-06-HPC_in_Asia-poster }}
 - {{ site.pubs.2008-09-Grid-poster }}
 - {{ site.pubs.2008-06-SACSIS-poster }}
+
+## Workshops (Non-refereed)
+
+<table>
+<tr> <td bgcolor="lightgray"> Tech report 2015 </td> <td> {{ site.pubs.2015-08-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray"> Tech report 2014 </td> <td> {{ site.pubs.2014-07-HPC_Techreport-workshop-xu }} </td> </tr>
+<tr> <td bgcolor="lightgray"> Tech report 2014 </td> <td> {{ site.pubs.2014-07-HPC_Techreport-workshop-sasaki }} </td> </tr>
+<tr> <td bgcolor="lightgray"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-sato }} </td> </tr>
+<tr> <td bgcolor="lightgray"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-matsuoka }} </td> </tr>
+<tr> <td bgcolor="lightgray"> SWoPP 2013 </td> <td> {{ site.pubs.2012-08-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray"> HOKKE-19 </td> <td> {{ site.pubs.2011-11-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray"> SWoPP 2008 </td> <td> {{ site.pubs.2009-08-HPC_Techreport-workshop }} </td> </tr>
+</table>
+
 
 ## Posters (Non-refereed)
 - {{ site.pubs.2012-03-ACRC-poster }}
