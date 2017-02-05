@@ -18,25 +18,25 @@ modified: 2015-6-30
 
 <table>
 <tr> <td bgcolor="lightgray"> IPDPS2017</td> <td>{{ site.pubs.2017-05-IPDPS2017-conf}}</td> </tr>
-<tr> <td> PPoPP2017</td> <td>{{ site.pubs.2017-02-PPoPP17-conf }}</td> </tr>
-<tr> <td> ICPADS2016</td> <td>{{ site.pubs.2016-09-01-ICPADS2016-conf }}</td> </tr>
-<tr> <td> SC16</td> <td>{{ site.pubs.2016-07-01-SC16-conf }}</td> </tr>
-<tr> <td> SC15</td> <td>{{ site.pubs.2015-07-01-SC15-conf }}</td> </tr>
-<tr> <td> IPDPS2015</td> <td>{{ site.pubs.2014-12-11-IPDPS2015-conf }}</td> </tr>
-<tr> <td> CCGrid2014</td> <td>{{ site.pubs.2014-01-28-CCGrid2014-conf }}</td> </tr>
-<tr> <td> IPDPS2014</td> <td>{{ site.pubs.2013-12-06-IPDPS2014-conf }}</td> </tr>
-<tr> <td> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-sato }}</td> </tr>
-<tr> <td> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-nukada }}</td> </tr>
-<tr> <td> SC11</td> <td>{{ site.pubs.2011-06-14-SC11-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray"> PPoPP2017</td> <td>{{ site.pubs.2017-02-PPoPP17-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray"> ICPADS2016</td> <td>{{ site.pubs.2016-09-01-ICPADS2016-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray"> SC16</td> <td>{{ site.pubs.2016-07-01-SC16-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray"> SC15</td> <td>{{ site.pubs.2015-07-01-SC15-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray"> IPDPS2015</td> <td>{{ site.pubs.2014-12-11-IPDPS2015-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray"> CCGrid2014</td> <td>{{ site.pubs.2014-01-28-CCGrid2014-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray"> IPDPS2014</td> <td>{{ site.pubs.2013-12-06-IPDPS2014-conf }}</td> </tr>
+<tr> <td bgcolor="lightgray"> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-sato }}</td> </tr>
+<tr> <td bgcolor="lightgray"> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-nukada }}</td> </tr>
+<tr> <td bgcolor="lightgray"> SC11</td> <td>{{ site.pubs.2011-06-14-SC11-conf }}</td> </tr>
 </table>
 
-
 ## Workshops (Refereed)
-- {{ site.pubs.2015-11-16-ExaMPI-workshop }} 
-- {{ site.pubs.2015-03-EPForDM-workshop }}
-- {{ site.pubs.2013-06-FTXS-workshop }}
-- {{ site.pubs.2010-05-SACSIS-workshop }}
-- {{ site.pubs.2009-05-Cloud-workshop }}
+
+<tr> <td bgcolor="lightgray"> ExaMPI15 </td> <td> {{ site.pubs.2015-11-16-ExaMPI-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray"> EPForDM2015 </td> <td> {{ site.pubs.2015-03-EPForDM-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray"> FTXS2013 </td> <td> {{ site.pubs.2013-06-FTXS-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray"> SACSIS2010 </td> <td> {{ site.pubs.2010-05-SACSIS-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray"> Cloud2009 </td> <td> {{ site.pubs.2009-05-Cloud-workshop }} </td> </tr>
 
 ## Workshops (Non-refereed)
 - {{ site.pubs.2015-08-HPC_Techreport-workshop }}
