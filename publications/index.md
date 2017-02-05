@@ -12,28 +12,24 @@ modified: 2015-6-30
 
 ## Conferences
 
-<table border="1">
-<tr>
-<td>Row 1, Column 1</td>
-<td>Row 1, Column 2</td>
-</tr>
-<tr>
-<td>Row 2, Column 1</td>
-<td>Row 2, Column 2</td>
-</tr>
+
+
+
+
+<table>
+<tr> <td bgcolor="lightgray"> IPDPS2017</td> <td>{{ site.pubs.2017-05-IPDPS2017-conf}}</td> </tr>
+<tr> <td> PPoPP2017</td> <td>{{ site.pubs.2017-02-PPoPP17-conf }}</td> </tr>
+<tr> <td> ICPADS2016</td> <td>{{ site.pubs.2016-09-01-ICPADS2016-conf }}</td> </tr>
+<tr> <td> SC16</td> <td>{{ site.pubs.2016-07-01-SC16-conf }}</td> </tr>
+<tr> <td> SC15</td> <td>{{ site.pubs.2015-07-01-SC15-conf }}</td> </tr>
+<tr> <td> IPDPS2015</td> <td>{{ site.pubs.2014-12-11-IPDPS2015-conf }}</td> </tr>
+<tr> <td> CCGrid2014</td> <td>{{ site.pubs.2014-01-28-CCGrid2014-conf }}</td> </tr>
+<tr> <td> IPDPS2014</td> <td>{{ site.pubs.2013-12-06-IPDPS2014-conf }}</td> </tr>
+<tr> <td> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-sato }}</td> </tr>
+<tr> <td> SC12</td> <td>{{ site.pubs.2012-07-10-SC12-conf-nukada }}</td> </tr>
+<tr> <td> SC11</td> <td>{{ site.pubs.2011-06-14-SC11-conf }}</td> </tr>
 </table>
 
-|IPDPS2017| {{ site.pubs.2017-05-IPDPS2017-conf}} |
-|PPoPP2017| {{ site.pubs.2017-02-PPoPP17-conf }}  |
-|ICPADS2016| {{ site.pubs.2016-09-01-ICPADS2016-conf }} |
-|SC16|{{ site.pubs.2016-07-01-SC16-conf }}|
-|SC15|{{ site.pubs.2015-07-01-SC15-conf }}|
-|IPDPS2015|{{ site.pubs.2014-12-11-IPDPS2015-conf }}|
-|CCGrid2014|{{ site.pubs.2014-01-28-CCGrid2014-conf }}|
-|IPDPS2014|{{ site.pubs.2013-12-06-IPDPS2014-conf }}|
-|SC12|{{ site.pubs.2012-07-10-SC12-conf-sato }}|
-|SC12|{{ site.pubs.2012-07-10-SC12-conf-nukada }}|
-|SC11|{{ site.pubs.2011-06-14-SC11-conf }}|
 
 ## Workshops (Refereed)
 - {{ site.pubs.2015-11-16-ExaMPI-workshop }} 
