@@ -61,7 +61,7 @@ modified: 2015-6-30
 <tr> <td bgcolor="lightgray" align="center"> Tech report 2014 </td> <td> {{ site.pubs.2014-07-HPC_Techreport-workshop-sasaki }} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-sato }} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> Tech report 2013 </td> <td> {{ site.pubs.2013-09-HPC_Techreport-workshop-matsuoka }} </td> </tr>
-<tr> <td bgcolor="lightgray" align="center"> SWoPP2013 </td> <td> {{ site.pubs.2012-08-HPC_Techreport-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SWoPP2012 </td> <td> {{ site.pubs.2012-08-HPC_Techreport-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> HOKKE-19 </td> <td> {{ site.pubs.2011-11-HPC_Techreport-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> SWoPP2008 </td> <td> {{ site.pubs.2009-08-HPC_Techreport-workshop }} </td> </tr>
 </table>
