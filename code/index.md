@@ -17,7 +17,7 @@ ReMPI is a highly scalable scalable record-and-replay tool for MPI applications.
 
 ---
 ## NINJA
-![alt text](https://pruners.github.io/img/ninja_logo.png "NINJA")
+![alt text](https://pruners.github.io/img/NINJA_logo.png "NINJA")
 Ninja (Noise INJection Agent) is a smart network noise injector for quickly exposing unindended MPI message races. Ninja uses innovative network noise injection techniques to increase the chances of racy, incorrect MPI message matching within the target MPI application. Ninja has been shown to reproduce unsafe message races consistently within large production applications and can do this up to two orders of magnitude faster than the traditional testing approach (i.e., random noise injection).
 - <i class="fa fa-fw fa-github"></i><a href="https://github.com/PRUNERS/NINJA">NINJA</a>
 
