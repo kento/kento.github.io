@@ -33,6 +33,7 @@ modified: 2015-6-30
 ## Workshops (Refereed)
 
 <table>
+<tr> <td bgcolor="lightgray" align="center"> Workshop in ICDCS2017 </td> <td> {{ site.pubs.2017-06-USJA-workshop}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> ExaMPI15 </td> <td> {{ site.pubs.2015-11-16-ExaMPI-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> EPForDM2015 </td> <td> {{ site.pubs.2015-03-EPForDM-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> FTXS2013 </td> <td> {{ site.pubs.2013-06-FTXS-workshop }} </td> </tr>
