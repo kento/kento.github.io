@@ -9,4 +9,4 @@ comments: false
 modified: 2015-6-30
 ---
 
-<object data="http://kento.github.io/files/research_statement_kento_sato.pdf" type="application/pdf" ></object>
+<object data="http://kento.github.io/files/research_statement_kento_sato.pdf" type="application/pdf" >test</object>
