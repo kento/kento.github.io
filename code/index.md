@@ -9,4 +9,12 @@ comments: false
 modified: 2017-4-4
 ---
 
-test
+## ReMPI
+ReMPI is a highly scalable scalable record-and-replay tool for MPI applications. ReMPI records the order of MPI message matching in one run and can deterministically replay it during subsequent runs. One of the supported modes uses Clock Delta Compression (CDC) for running at extreme-scale. CDC can reduce the record size down to the bare minimum, which allows ReMPI to keep record data on node-local storage, and drastically improve scalability versus writing to a shared file system.
+- <a href="https://github.com/PRUNERS/ReMPI"><i class="fa fa-fw fa-github"></i>ReMPI</a>
+
+## NINJA
+Ninja (Noise INJection Agent) is a smart network noise injector for quickly exposing unindended MPI message races. Ninja uses innovative network noise injection techniques to increase the chances of racy, incorrect MPI message matching within the target MPI application. Ninja has been shown to reproduce unsafe message races consistently within large production applications and can do this up to two orders of magnitude faster than the traditional testing approach (i.e., random noise injection).
+- <a href="https://github.com/PRUNERS/NINJA"><i class="fa fa-fw fa-github"></i>NINJA</a>
+
+
