@@ -10,4 +10,4 @@ image:
   creditlink: 
 ---
 
-<img src="/files/2017-03-Computation_Postdoctoral_Poster_Symposium.pdf" alt="">
+<img src="/files/2017-03-Computation_Postdoctoral_Poster_Symposium.jpg" align=middle width=500 alt="">
