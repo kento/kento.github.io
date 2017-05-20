@@ -11,3 +11,4 @@ image:
 ---
 
 <img src="/files/2017-03-Computation_Postdoctoral_Poster_Symposium.jpg" align=middle width=500 alt="">
+<img src="/images/Post-2014-05-29-ccgrid.jpg" alt="">
