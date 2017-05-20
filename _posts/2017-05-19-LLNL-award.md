@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Award： Best Poper Award
+title: Award： Best Poster Award
 description: "Best paper award at the Computation Directorate March 2017 Postdoctoral Poster Symposium in LLNL"
 modified: 2017-05-19
 tags: award
