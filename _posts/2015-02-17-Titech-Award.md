@@ -1,14 +1,17 @@
 ---
 layout: post
-title: Award： Best Poper Award
-description: "Best paper award at the Computation Directorate March 2017 Postdoctoral Poster Symposium in LLNL"
-modified: 2017-05-19
+title: Award： 平成26年度手島精一記念研究賞授与式
+description: Seiichi Tejima Doctoral Dissertation Award (平成26年度手島精一記念研究賞授与式 情報学関係部門) on “Design and Implementation for Optimal Checkpoint/Restart”
+modified: 2015-02-17
 tags: award
 image:
   feature: 
-  credit: Best paper award at the Computation Directorate March 2017 Postdoctoral Poster Symposium in LLNL
+  credit: 
   creditlink: 
 ---
 
-<img src="/files/2017-03-Computation_Postdoctoral_Poster_Symposium.pdf" alt="">
 
+<img src="/files/2015-02-Titech-Award-2.jpg" alt="">
+<img src="/files/2015-02-Titech-Award-1.pdf" alt="">
+
+Seiichi Tejima Doctoral Dissertation Award (平成26年度手島精一記念研究賞授与式 情報学関係部門) on “Design and Implementation for Optimal Checkpoint/Restart”
