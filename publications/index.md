@@ -44,6 +44,8 @@ modified: 2015-6-30
 ## Posters (Refereed)
 
 <table>
+<tr> <td bgcolor="lightgray" align="center"> SC17 </td> <td> {{ site.pubs.2017-11-SC17-poster-xu}} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SC17 </td> <td> {{ site.pubs.2017-11-SC17-poster-chapp}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> SC15 </td> <td> {{ site.pubs.2015-11-SC15-poster-wang}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> SC15 </td> <td> {{ site.pubs.2015-11-SC15-poster-xu}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> ISC'15 </td> <td> {{ site.pubs.2015-07-HPC_in_Asia-poster }} </td> </tr>
@@ -87,6 +89,11 @@ modified: 2015-6-30
 
 ## Book Chapters
 - {{ site.pubs.2013-08-CRC }}
+
+## Dissertations
+- {{ site.pubs.2014-03-phd}}
+- {{ site.pubs.2010-03-master}}
+- {{ site.pubs.2008-03-bachelor}}
 
 <!--
 <div id="publications_page">
