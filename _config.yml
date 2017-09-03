@@ -127,3 +127,7 @@ pubs:
   2009-08-KJ: <b color="#6666ff">Kento Sato</b>, "A Model-Based Algorithm for Optimizing I/O Intensive Applications in Clouds using VM-Based Migration", Korea-Japan E-Science Symposium, Miyagi, Aug, 2009.
 # Book Chapters
   2013-08-CRC: Satoshi Matsuoka, Takayuki Aoki, Toshio Endo, Hitoshi Sato, Shin’ichiro Takizawa, Akihiko Nomura, and <b color="#6666ff">Kento Sato</b>, "TSUBAME2.0&#058; The First Petascale Supercomputer in Japan and the Greatest Production in the World", volume 1, chapter 20, pages 525–556. Chapman & Hall/CRC Computational Science, April 2013. [<A href="//www.crcnetbase.com/doi/book/10.1201/b14677"> Link </A>]
+# Dissertations
+  2014-03-phd: <b color="#6666ff">Kento Sato</b>, “Design and Implementatin for Optimal Checkpoint/Restart”, Tokyo Institute of Technology, Committee members (Prof. Satoshi Matsuoka, Prof. Toshio Endo, Prof. Hidehiko Masuhara, Prof. Naoto Miyoshi and Prof. Ken Wakita), 2014.
+  2010-03-master: <b color="#6666ff">Kento Sato</b>, “仮想マシンマイグレーションを考慮した大規模データ処理の最 適化”, Tokyo Institute of Technology, Commitemembers (Prof. Masataka Sassa, Prof. Prof. Osamu Watanabe, Prof. Shigeru Chiba, Prof. Ken Wakita and Prof. Satoshi Matsuoka)
+  2008-03-bachelor: <b color="#6666ff">Kento Sato</b>, “仮想クラスタを用いたデータインテンシブアプリケーション実行 環境の性能モデル構築と最適化”, Tokyo Institute of Technology, Advisor (Satoshi Matsuoak), 2008.
