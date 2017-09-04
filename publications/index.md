@@ -12,10 +12,6 @@ modified: 2015-6-30
 
 ## Conferences
 
-
-
-
-
 <table>
 <tr> <td bgcolor="lightgray" align="center"> IPDPS2017</td> <td>{{ site.pubs.2017-05-IPDPS2017-conf}}</td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> PPoPP2017</td> <td>{{ site.pubs.2017-02-PPoPP17-conf }}</td> </tr>
