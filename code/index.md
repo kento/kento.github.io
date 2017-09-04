@@ -21,7 +21,7 @@ Ninja (Noise INJection Agent) is a smart network noise injector for quickly expo
 
 ---
 ## <img src="/images/logos/HuronFS_logo.png" width="150"> 
-HuronFS is a Hierarchical, UseR-level and ON-demand File Systemd for exploiting burst buffers. Unlike conventional filesystems, HuronFS creates an on-demand two-level hierarchical storage system and caches popular files to accelerate I/O performance. Since HuronFS has multiple metadata servers, HuronFS is highly scalable. In addition, by using file replication, failure detection and recovery techniques, HuronFS is resilient to failures. HuronFS exploits low-latency and high-bandwidth interconnects (InfiniBand) for supercomputers. It is developed and maintained by a partnership of research, academic, and industry members.
+HuronFS is a Hierarchical, UseR-level and ON-demand File Systemd for exploiting burst buffers. Unlike conventional filesystems, HuronFS creates an on-demand two-level hierarchical storage system and caches popular files to accelerate I/O performance. Since HuronFS has multiple metadata servers, HuronFS is highly scalable. In addition, by using file replication, failure detection and recovery techniques, HuronFS is resilient to failures. HuronFS exploits low-latency and high-bandwidth interconnects (InfiniBand) for supercomputers.
 - <i class="fa fa-fw fa-github"></i><a href="https://github.com/EBD-CREST/HuronFS">HuronFS</a>
 
 ---
