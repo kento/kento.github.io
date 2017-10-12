@@ -30,13 +30,13 @@ modified: 2015-6-30
 
 <table>
 <tr> <td bgcolor="lightgray" align="center"> CRE2017<br/>(in SC17) </td> <td> {{ site.pubs.2017-11-CRE-workshop}} </td> </tr>
-<tr> <td bgcolor="lightgray" align="center"> PDSW-DISCS 2017<br/>((in SC17) </td> <td> {{ site.pubs.2017-11-PDSW-DISCS-workshop}} </td> </tr>
-<tr> <td bgcolor="lightgray" align="center"> Workshop<br/>((in ICDCS2017) </td> <td> {{ site.pubs.2017-06-USJA-workshop}} </td> </tr>
-<tr> <td bgcolor="lightgray" align="center"> ExaMPI15<br/>((in SC15) </td> <td> {{ site.pubs.2015-11-16-ExaMPI-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> PDSW-DISCS 2017<br/>(in SC17) </td> <td> {{ site.pubs.2017-11-PDSW-DISCS-workshop}} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> Workshop<br/>(in ICDCS2017) </td> <td> {{ site.pubs.2017-06-USJA-workshop}} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> ExaMPI15<br/>(in SC15) </td> <td> {{ site.pubs.2015-11-16-ExaMPI-workshop }} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> EPForDM2015<br/>((in EDBT2015) </td> <td> {{ site.pubs.2015-03-EPForDM-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray" align="center"> FTXS2013<br/>((in HPDC2013) </td> <td> {{ site.pubs.2013-06-FTXS-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray" align="center"> SACSIS2010<br/>(</td> <td> {{ site.pubs.2010-05-SACSIS-workshop }} </td> </tr>
-<tr> <td bgcolor="lightgray" align="center"> Cloud2009<br/>((in CCGrid2013) </td> <td> {{ site.pubs.2009-05-Cloud-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> FTXS2013<br/>(in HPDC2013) </td> <td> {{ site.pubs.2013-06-FTXS-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> SACSIS2010</td> <td> {{ site.pubs.2010-05-SACSIS-workshop }} </td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> Cloud2009<br/>(in CCGrid2009) </td> <td> {{ site.pubs.2009-05-Cloud-workshop }} </td> </tr>
 </table>
 
 ## Posters (Refereed)
