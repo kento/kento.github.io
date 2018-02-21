@@ -73,6 +73,9 @@ modified: 2015-6-30
 - {{ site.pubs.2011-03-DI-poster }}
 
 ## Talks
+- {{ site.pubs.2017-02-JOWOG-talk }}
+- {{ site.pubs.2017-02-ECP-talk-session }}
+- {{ site.pubs.2017-02-ECP-talk-tutorial }}
 - {{ site.pubs.2016-08-STW-talk}}
 - {{ site.pubs.2016-02-AICS-talk }}
 - {{ site.pubs.2015-11-SC15-BoF }}
