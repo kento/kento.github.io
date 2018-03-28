@@ -26,6 +26,10 @@ modified: 2015-6-30
 <tr> <td bgcolor="lightgray" align="center"> SC11</td> <td>{{ site.pubs.2011-06-14-SC11-conf }}</td> </tr>
 </table>
 
+## Journal (Refereed)
+
+<tr> <td bgcolor="lightgray" align="center"> JSFI </td> <td>{{ site.pubs.2018-02-27-JSFI-jour }}</td> </tr>
+
 ## Workshops (Refereed)
 
 <table>
