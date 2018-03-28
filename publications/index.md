@@ -28,7 +28,9 @@ modified: 2015-6-30
 
 ## Journal (Refereed)
 
+<tabel>
 <tr> <td bgcolor="lightgray" align="center"> JSFI </td> <td>{{ site.pubs.2018-02-27-JSFI-jour }}</td> </tr>
+</table>
 
 ## Workshops (Refereed)
 
