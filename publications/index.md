@@ -37,6 +37,7 @@ modified: 2015-6-30
 ## Workshops (Refereed)
 
 <table>
+<tr> <td bgcolor="lightgray" align="center"> ROSS2018<br/> (in HPDC2018) </td> <td> {{ site.pubs.2018-05-ROSS-workshop}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> CRE2017<br/>(in SC17) </td> <td> {{ site.pubs.2017-11-CRE-workshop}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> PDSW-DISCS 2017<br/>(in SC17) </td> <td> {{ site.pubs.2017-11-PDSW-DISCS-workshop}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> Workshop<br/>(in ICDCS2017) </td> <td> {{ site.pubs.2017-06-USJA-workshop}} </td> </tr>
@@ -50,6 +51,7 @@ modified: 2015-6-30
 ## Posters (Refereed)
 
 <table>
+<tr> <td bgcolor="lightgray" align="center"> ISC 2018 </td> <td> {{ site.pubs.2018-07-ISC-poster-xu}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> SC17 </td> <td> {{ site.pubs.2017-11-SC17-poster-xu}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> SC17 </td> <td> {{ site.pubs.2017-11-SC17-poster-chapp}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> SC15 </td> <td> {{ site.pubs.2015-11-SC15-poster-wang}} </td> </tr>
