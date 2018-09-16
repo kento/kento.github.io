@@ -13,6 +13,7 @@ modified: 2015-6-30
 ## Conferences
 
 <table>
+<tr> <td bgcolor="lightgray" align="center"> ICPADS2018</td> <td>{{ site.pubs.2018-12-ICPADS2018-conf}}</td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> MASCOTS2018</td> <td>{{ site.pubs.2018-09-MASCOTS2018-conf}}</td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> IPDPS2017</td> <td>{{ site.pubs.2017-05-IPDPS2017-conf}}</td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> PPoPP2017</td> <td>{{ site.pubs.2017-02-PPoPP17-conf }}</td> </tr>
@@ -52,6 +53,7 @@ modified: 2015-6-30
 ## Posters (Refereed)
 
 <table>
+<tr> <td bgcolor="lightgray" align="center"> SC18 </td> <td> {{ site.pubs.2018-11-SC18-poster-zhu}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> ISC 2018 </td> <td> {{ site.pubs.2018-07-ISC-poster-xu}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> SC17 </td> <td> {{ site.pubs.2017-11-SC17-poster-xu}} </td> </tr>
 <tr> <td bgcolor="lightgray" align="center"> SC17 </td> <td> {{ site.pubs.2017-11-SC17-poster-chapp}} </td> </tr>
