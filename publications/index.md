@@ -31,7 +31,8 @@ modified: 2015-6-30
 ## Journal (Refereed)
 
 <table>
-<tr> <td bgcolor="lightgray" align="center"> JSFI<br/>(180102)</td> <td>{{ site.pubs.2018-02-27-JSFI-jour }}</td> </tr>
+  <tr> <td bgcolor="lightgray" align="center"> IJHPCA</td> <td>{{ site.pubs.2019-04-IJHPCA-jour }}</td> </tr>
+  <tr> <td bgcolor="lightgray" align="center"> JSFI<br/>(180102)</td> <td>{{ site.pubs.2018-02-27-JSFI-jour }}</td> </tr>
 </table>
 
 
@@ -86,9 +87,10 @@ modified: 2015-6-30
 - {{ site.pubs.2011-03-DI-poster }}
 
 ## Talks
-- {{ site.pubs.2017-02-JOWOG-talk }}
-- {{ site.pubs.2017-02-ECP-talk-session }}
-- {{ site.pubs.2017-02-ECP-talk-tutorial }}
+- {{ site.pubs.2018-02-R-CCS-Cafe-talk }}
+- {{ site.pubs.2018-02-JOWOG-talk }}
+- {{ site.pubs.2018-02-ECP-talk-session }}
+- {{ site.pubs.2018-02-ECP-talk-tutorial }}
 - {{ site.pubs.2016-08-STW-talk}}
 - {{ site.pubs.2016-02-AICS-talk }}
 - {{ site.pubs.2015-11-SC15-BoF }}
