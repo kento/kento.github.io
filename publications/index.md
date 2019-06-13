@@ -31,8 +31,8 @@ modified: 2015-6-30
 ## Journal (Refereed)
 
 <table>
-<tr> <td bgcolor="lightgray" align="center"> IJHPCA           </td> <td>{{ site.pubs.2019-04-IJHPCA-jour } }</td> </tr>
-<tr> <td bgcolor="lightgray" align="center"> JSFI<br/>(180102)</td> <td>{{ site.pubs.2018-02-27-JSFI-jour }}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> IJHPCA </td> <td>{{ site.pubs.2019-04-IJHPCA-jour}}</td> </tr>
+<tr> <td bgcolor="lightgray" align="center"> JSFI<br/>(180102)</td> <td>{{ site.pubs.2018-02-27-JSFI-jour}}</td> </tr>
 </table>
 
 ## Workshops (Refereed)
