@@ -6,8 +6,10 @@
 - title: Code
   url: /code/
 
+#- title: Publications
+#  url: /publications/
 - title: Publications
-  url: /publications/
+  url: http://kento.github.io/files/publication_kento_sato.pdf
 
 - title: External Link
   url: /links/
