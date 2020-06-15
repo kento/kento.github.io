@@ -14,7 +14,7 @@ owner:
   bio:            "Team Leader/High Performance Big Data Research Team/RIKEN Center for Computational Science(RIKEN R-CCS)"
   email:          kento.sato@riken.jp
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/_Kento_Sato_
+  twitter:        _Kento_Sato_ #https://github.com/kento/kento.github.io.git
   facebook:       
   github:         
   stackexchange:  
@@ -24,7 +24,7 @@ owner:
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
   google_plus:  
-  google_scholar: jyiTRt0AAAAJ
+  google_scholar: jyiTRt0AAAAJ #https://scholar.google.co.jp/citations?user=jyiTRt0AAAAJ&hl=en
 
 # Background image to be tiled on all pages
 background: 
