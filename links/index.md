@@ -16,7 +16,7 @@ modified: 2015-6-30
        <a href="https://www.hpbd.r-ccs.riken.jp">High Performance Big Data Research Team</a>
     </li>
     <li>
-        <a href="http://matsu-www.is.titech.ac.jp/?q=en">Satoshi Matsuola Research Laboratory</a>
+        <a href="http://matsu-www.is.titech.ac.jp/?q=en">Satoshi Matsuoka Research Laboratory</a>
     </li>
     <li>
         <a href="https://computation-rnd.llnl.gov/">Computation, Lawrence Livermore National Laboratory (LLNL)</a>
