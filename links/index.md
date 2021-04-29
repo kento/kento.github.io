@@ -13,6 +13,9 @@ modified: 2015-6-30
   <ul>
     <h4> Related Research Laboratories</h4>
     <li>
+       <a href="https://www.hpbd.r-ccs.riken.jp">High Performance Big Data Research Team</a>
+    </li>
+    <li>
         <a href="http://matsu-www.is.titech.ac.jp/?q=en">Satoshi Matsuola Research Laboratory</a>
     </li>
     <li>
