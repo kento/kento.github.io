@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Call for Postdoc/Researchers/Interns !
+title: Call for Postdocs/Researchers/Interns !
 description: 
 modified: 2021-4-29
-tags: Call for Postdoc/Researchers/Interns !
+tags: Call for Postdocs/Researchers/Interns !
 image:
   feature: 
   credit: 
