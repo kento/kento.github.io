@@ -10,5 +10,5 @@ image:
   creditlink: 
 ---
 
-<a href="https://www.hpbd.r-ccs.riken.jp/hpbd/en/recruiting/" target="_blank" > <img src="/files/HPBD_logo_03_C" alt="High Performance Big Data Research Team: Recruting" width="120" height="100"> </a>
+<a href="https://www.hpbd.r-ccs.riken.jp/hpbd/en/recruiting/" target="_blank" > <img src="/files/HPBD_logo_03_C.png" alt="High Performance Big Data Research Team: Recruting" width="120" height="100"> </a>
 
